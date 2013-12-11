@@ -1,0 +1,1733 @@
+Fas_A0	protein
+a death receptor_A0	protein
+human tissue_A0	$
+its expression_A0	$
+a prerequisite_A0	$
+the induction_A0	$
+apoptosis_A0	$
+its biological function_A0	$
+the mechanisms_A0	$
+Fas resistance_A0	protein
+human tissues_A0	$
+we_A0	$
+immunohistochemistry_A0	$
+an antibody_A0	$
+Fas-associated phosphatase-1_A0	protein
+FAP-1_A0	protein
+which_A0	$
+the cytosolic domain_A0	protein
+Fas_A0	protein
+Fas-mediated apoptosis_A0	$
+normal human tissues_A0	$
+FAP-1 immunostaining_A0	protein
+example_A0	$
+renal tubules_A0	$
+skeletal muscle_A0	$
+myocardiocytes_A0	cell_type
+pituitary gland_A0	$
+parathyroid gland_A0	$
+pancreatic islets_A0	cell_type
+hepatocytes_A0	cell_type
+testicular germ cells_A0	cell_type
+prostatic glands_A0	$
+neurons_A0	$
+epithelium_A0	$
+fallopian tube_A0	$
+endometrial glands_A0	$
+trophoblasts_A0	$
+bronchial epithelial cells_A0	cell_type
+some types_A0	$
+gastrointestinal epithelial cells_A0	cell_type
+123_A0	$
+78 %_A0	$
+158 cancers_A0	$
+various origins_A0	$
+breast carcinomas_A0	$
+stomach carcinomas_A0	$
+colon carcinomas_A0	$
+lung carcinomas_A0	$
+several types_A0	$
+sarcomas_A0	$
+variable intensities_A0	$
+FAP-1 expression_A0	protein
+these findings_A0	$
+FAP-1_A0	protein
+normal human tissues_A0	$
+Fas expression_A0	protein
+earlier reports_A0	$
+FAP-1_A0	protein
+an important role_A0	$
+the regulation_A0	$
+apoptosis_A0	$
+addition_A0	$
+FAP-1 expression_A0	protein
+cancers_A0	$
+many cancers_A0	$
+Fas-mediated apoptosis_A0	$
+the action_A0	$
+FAP-1_A0	protein
+Previous studies_A1	$
+endothelin_A1	protein
+ET_A1	protein
+isoforms_A1	protein
+ET-1_A1	protein
+ET-2_A1	protein
+ET-3_A1	protein
+an autocrine manner_A1	$
+ovarian cancer_A1	$
+their role_A1	$
+that_A1	$
+a paracrine mitogen_A1	protein
+the possibility_A1	$
+endothelin isoforms_A1	protein
+autocrine regulators_A1	protein
+paracrine mitogens_A1	protein
+ovarian cancers_A1	$
+we_A1	$
+their effects_A1	$
+the growth_A1	$
+ovarian fibroblasts_A1	cell_type
+ovarian carcinomas_A1	$
+the interaction_A1	$
+ovarian carcinoma and fibroblast cells_A1	cell_type
+the location_A1	$
+the isoform expression_A1	protein
+primary ovarian tumours_A1	cell_type
+ET-1 , ET-2 and ET-3_A1	protein
+the growth_A1	$
+three ovarian fibroblast cell lines_A1	cell_line
+concentrations_A1	$
+10_A1	$
+-12_A1	$
+M_A1	$
+10_A1	$
+-7_A1	$
+M_A1	$
+Inhibition_A1	$
+125I-ET binding_A1	$
+the ETA receptor antagonist BQ123_A1	protein
+the ETB receptor antagonist BQ788_A1	protein
+the presence_A1	$
+both types_A1	$
+ET receptors_A1	protein
+fibroblast cells_A1	cell_type
+the absence_A1	$
+ET-1_A1	protein
+BQ 123_A1	$
+BQ 788_A1	$
+growth_A1	$
+both antagonists_A1	$
+ET-1 stimulated growth_A1	protein
+the involvement_A1	$
+both receptor types_A1	$
+ET-1 growth regulation_A1	$
+contrast_A1	$
+which_A1	cell_type
+measurable levels_A1	$
+ET-1_A1	protein
+fibroblast cell lines_A1	cell_line
+detectable protein_A1	$
+Co-culture experiments_A1	$
+porous membrane insert wells_A1	$
+fibroblasts_A1	cell_type
+carcinoma cells_A1	cell_type
+growth_A1	$
+both populations_A1	$
+cells_A1	$
+isolation_A1	$
+this system_A1	$
+growth_A1	$
+the fibroblast cell line_A1	cell_line
+BQ123 and BQ788_A1	cell_line
+growth_A1	$
+the PE014 carcinoma cell line_A1	cell_line
+only BQ123_A1	$
+RT-PCR measurements_A1	$
+the presence_A1	$
+the ETA receptor subtype_A1	protein
+10/10 primary ovarian cancers_A1	$
+the presence_A1	$
+ETB receptor_A1	protein
+only 6/10 cancers_A1	$
+specific antibodies_A1	protein
+ET-1_A1	protein
+11/15_A1	$
+ET-2_A1	protein
+5_A1	$
+7_A1	$
+ET-3_A1	protein
+5/7 primary ovarian cancers_A1	$
+the epithelial cells_A1	cell_type
+some stromal expression_A1	$
+These data_A1	$
+the ET isoforms_A1	protein
+growth_A1	$
+the fibroblast population_A1	$
+an ovarian cancer_A1	$
+addition_A1	$
+the epithelial cells_A1	cell_type
+the ETs_A1	DNA
+the majority_A1	$
+ovarian cancers_A1	$
+this paracrine effect_A1	$
+the overall growth_A1	$
+the tumour_A1	$
+the mechanism_A2	$
+the endothelin-1_A2	protein
+ET-1_A2	protein
+-induced release_A2	$
+catecholamines_A2	$
+the adrenal gland_A2	$
+we_A2	$
+the effects_A2	$
+removal_A2	$
+extracellular Ca2+_A2	$
+blockers_A2	$
+L- , N- , P- and Q-types_A2	$
+voltage-operated Ca2+ channels_A2	protein
+VOCC_A2	$
+nifedipine_A2	$
+L-type_A2	$
+omega-conotoxin GVIA_A2	$
+N-type_A2	$
+omega-agatoxin IVA_A2	$
+P-type_A2	$
+omega-conotoxin MVIIC_A2	$
+blockers_A2	$
+voltage-independent Ca2+ entry channel_A2	protein
+SKF 96365_A2	$
+LOE 908_A2	$
+release_A2	$
+catecholamines_A2	$
+the cytosolic free Ca2+ concentration_A2	$
+Ca2+ ] i_A2	$
+45Ca2+ uptake_A2	$
+cultured bovine adrenal chromaffin cells_A2	cell_line
+ET-3_A2	protein
+increases_A2	$
+release_A2	$
+catecholamines_A2	$
+Ca2+ ] i_A2	$
+45Ca2+ uptake_A2	$
+The responses_A2	$
+ET-1_A2	protein
+the antagonist_A2	$
+ET_A2	protein
+A_A2	protein
+receptors_A2	protein
+BQ-123_A2	protein
+the antagonist_A2	$
+ET_A2	protein
+B_A2	protein
+receptors_A2	protein
+BQ-788_A2	protein
+they_A2	$
+removal_A2	$
+extracellular Ca2+_A2	$
+The increases_A2	$
+about 65 %_A2	$
+control_A2	$
+nifedipine_A2	$
+any_A2	$
+the omega-toxins_A2	protein
+The nifedipine-resistant increase_A2	$
+SKF 96365_A2	$
+about 40 %_A2	$
+LOE 908_A2	$
+These results_A2	$
+ET-1_A2	protein
+the release_A2	$
+catecholamines_A2	$
+adrenal chromaffin cells_A2	cell_type
+ET_A2	protein
+A_A2	protein
+receptors_A2	protein
+two types_A2	$
+Ca2+ entry channels_A2	protein
+addition_A2	$
+L-type VOCC_A2	$
+one_A2	$
+nonselective cation channel-1_A2	$
+NSCC-1_A2	protein
+908_A2	$
+SKF 96365_A2	$
+the other_A2	$
+NSCC-2_A2	protein
+LOE 908_A2	$
+SK & F 96365_A2	$
+We_A3	$
+polycyclic aromatic hydrocarbon_A3	$
+PAH_A3	$
+metabolism-based inhibitors_A3	$
+CYP1B1 metabolism_A3	$
+aryl hydrocarbon receptor_A3	protein
+AhR_A3	protein
+activation_A3	$
+mouse embryo fibroblasts_A3	cell_type
+MEF_A3	protein
+1-ethynylpyrene_A3	$
+1EP_A3	$
+CYP1B1 dimethylbenzanthracene_A3	$
+DMBA_A3	$
+metabolism_A3	$
+C3H10T1/2 MEFs_A3	protein
+1-_A3	$
+1-propynyl_A3	$
+pyrene_A3	$
+1PP_A3	$
+CYP1A1 activity_A3	protein
+Hepa-1c1c7 mouse hepatoma cells_A3	cell_line
+Hepa_A3	protein
+each cell type_A3	$
+90 % inhibition_A3	$
+DMBA metabolism_A3	$
+1 h treatment_A3	$
+each inhibitor_A3	$
+0_A3	$
+1 microM_A3	$
+levels_A3	$
+2 , 3 , 7_A3	$
+8-tetrachlorodibenzo-p-dioxin_A3	$
+TCDD_A3	$
+induction_A3	$
+fourfold stimulation_A3	$
+It_A3	$
+0_A3	$
+1 microM 1EP_A3	$
+1PP_A3	$
+CYP1B1 and CYP1A1 mRNA levels_A3	protein
+10T1/2 and Hepa cells_A3	cell_line
+6 h_A3	$
+1-Ethylpyrene_A3	$
+EtP_A3	protein
+which_A3	$
+the activatable acetylene moiety_A3	$
+an inhibitor_A3	$
+an inducer_A3	$
+AhR activation_A3	protein
+1EP induction_A3	$
+the use_A3	$
+AhR antagonists_A3	protein
+AhR-deficient MEFs_A3	$
+absence_A3	$
+induction_A3	$
+inhibition_A3	$
+DMBA metabolism_A3	$
+carbon monoxide_A3	$
+CO_A3	$
+Inhibition_A3	$
+CYP1B1_A3	protein
+enhanced AhR activation_A3	protein
+early stages_A3	$
+significant ligand depletion_A3	$
+1EP and EtP_A3	protein
+AhR nuclear translocation_A3	protein
+5-10 times slower_A3	$
+TCDD_A3	$
+no significant down-regulation_A3	$
+the AhR_A3	protein
+TCDD_A3	protein
+AhR/Arnt complex formation_A3	protein
+an oligonucleotide xenobiotic response element_A3	DNA
+1EP or EtP_A3	protein
+concentrations_A3	$
+that_A3	$
+CYP1B1 mRNA_A3	RNA
+similar levels_A3	$
+CO_A3	$
+these responses_A3	$
+EtP_A3	protein
+event hough CO treatment_A3	$
+EtP induction_A3	protein
+CYP1B1 mRNA_A3	RNA
+These differences_A3	$
+a fundamental difference_A3	$
+PAH/AhR and TCDD/AhR complexes_A3	protein
+CYP1B1 metabolic activity_A3	protein
+the potency_A3	$
+the formation_A3	$
+the AhR/Arnt complex_A3	protein
+Copyright 1999 Academic Press_A3	$
+myocardial cells_A4	cell_type
+MCs_A4	cell_type
+endothelin-1_A4	protein
+ET-1_A4	protein
+various effects_A4	$
+hypertrophy_A4	$
+cellular injury_A4	$
+Long-term treatment_A4	$
+an endothelin-A_A4	$
+ET_A4	$
+A_A4	$
+receptor antagonist_A4	$
+the survival_A4	$
+rats_A4	$
+heart failure_A4	$
+myocardial endothelin system_A4	protein
+the progression_A4	$
+heart failure_A4	$
+p38 mitogen-activated kinase_A4	protein
+MAPK_A4	protein
+a member_A4	$
+the MAPK family_A4	protein
+several forms_A4	$
+environmental stresses_A4	$
+We_A4	$
+the effect_A4	$
+ET-1_A4	protein
+p38 MAPK activation_A4	protein
+the role_A4	$
+ET-1-activated p38 MAPK_A4	protein
+morphological changes_A4	$
+MCs_A4	cell_type
+ET-1-stimulated p38 MAPK phosphorylation_A4	protein
+2 min_A4	$
+5 min_A4	$
+concentration_A4	$
+The maximum effect_A4	$
+10 nM_A4	$
+An ET_A4	$
+A_A4	$
+receptor antagonist_A4	$
+BQ-123_A4	protein
+an endothelin-B receptor antagonist_A4	protein
+BQ-788_A4	protein
+these reactions_A4	$
+A p38 MAPK inhibitor_A4	protein
+SB203580_A4	$
+the morphological changes_A4	$
+ET-1-induced myocardial cell hypertrophy_A4	$
+These results_A4	$
+p38 MAPK_A4	protein
+ET-1_A4	protein
+the development_A4	$
+ET-1-induced myocardial cell hypertrophy_A4	$
+Tension_A5	$
+phosphatidyl inositol_A5	$
+PI_A5	$
+turnover experiments_A5	$
+the receptors and signal transduction pathways_A5	$
+contractions_A5	$
+endothelin_A5	protein
+ET_A5	protein
+ligands_A5	protein
+human bronchus_A5	$
+Nicardipine_A5	$
+1 microM_A5	$
+the L-type calcium channel inhibitor_A5	$
+incubation_A5	$
+Ca2+-free medium_A5	$
+marked inhibition_A5	$
+contractions_A5	$
+the ET_A5	$
+B_A5	$
+receptor-selective agonist_A5	$
+sarafotoxin S6c_A5	$
+those_A5	$
+KCl_A5	protein
+contrast_A5	$
+Ca2+-free medium_A5	$
+appreciable effect_A5	$
+contraction_A5	$
+endothelin-1_A5	protein
+ET-1_A5	protein
+the non-selective ET_A5	$
+A_A5	$
+ET_A5	protein
+B_A5	protein
+receptor agonist_A5	protein
+Ca2+-free medium_A5	$
+ryanodine_A5	$
+10 microM_A5	$
+which_A5	$
+intracellular calcium mobilization_A5	$
+sarafotoxin S6c-_A5	$
+ET-1-induced responses_A5	$
+effect_A5	$
+responses_A5	$
+KCl_A5	protein
+nickel chloride_A5	$
+Ni2+_A5	$
+1 mM_A5	$
+marked inhibition_A5	$
+contractions_A5	$
+sarafotoxin S6c or ET-1_A5	protein
+no significant effect_A5	$
+KCI concentration-response curves_A5	$
+The mixed ET_A5	$
+A_A5	$
+/ET_A5	protein
+B_A5	protein
+receptor antagonist SB 209670_A5	protein
+3 microM_A5	$
+responses_A5	$
+concentration-response curves_A5	protein
+the 30 % maximum response level_A5	$
+10_A5	$
+0- and 3_A5	$
+BQ-123_A5	$
+3 microM_A5	$
+the ET_A5	$
+A_A5	$
+receptor antagonist_A5	$
+effect_A5	$
+response_A5	$
+either agonist_A5	$
+ET-1_A5	protein
+1 nM-0_A5	$
+3 microM_A5	$
+a concentration-dependent stimulation_A5	$
+PI turnover_A5	$
+sarafotoxin S6c_A5	$
+0_A5	$
+3 nM-0_A5	$
+1 microM_A5	$
+only small and variable increases_A5	$
+the highest concentration_A5	$
+The increase_A5	$
+PI turnover_A5	$
+ET-1_A5	protein
+SB 209670_A5	$
+3 microM_A5	$
+BQ-123_A5	$
+3 microM_A5	$
+This_A5	$
+linkage_A5	$
+ET_A5	protein
+A_A5	protein
+receptors_A5	protein
+activation_A5	$
+inositol phosphate generation_A5	$
+human bronchial smooth muscle cells_A5	cell_type
+the data_A5	$
+differences_A5	$
+the relative contributions_A5	$
+intracellular and extracellular Ca2+ mobilization mechanisms_A5	$
+ET_A5	$
+A_A5	$
+ET_A5	protein
+B_A5	protein
+receptor activation_A5	protein
+sarafotoxin S6c-induced_A5	$
+ET_A5	$
+B_A5	$
+receptor-mediated contraction_A5	$
+human bronchial smooth muscle_A5	$
+part_A5	$
+extracellular Ca2+_A5	$
+a significant component_A5	$
+the response_A5	$
+intracellular Ca2+ release_A5	$
+ryanodine-sensitive stores_A5	DNA
+ET ( A ) receptor-mediated contraction_A5	$
+human airway smooth muscle_A5	$
+the release_A5	$
+intracellular Ca2+_A5	$
+Epidepride_A6	$
+S_A6	$
+-N-_A6	$
+1-ethyl-2-pyrrolidinyl ] methyl_A6	$
+-5-iodo-2_A6	$
+3-dimethoxybenza mide_A6	$
+a picomolar affinity_A6	$
+Ki_A6	$
+24 pM_A6	$
+the dopamine D2 receptor_A6	protein
+Iodine-123-labeled epidepride_A6	$
+striatal and extrastriatal dopamine D2 receptors_A6	protein
+single photon emission_A6	$
+tomography_A6	$
+SPECT_A6	$
+Our aim_A6	$
+epidepride_A6	$
+carbon-11_A6	protein
+comparative quantitative studies_A6	$
+positron emission tomography_A6	$
+PET_A6	protein
+SPECT_A6	$
+Epidepride_A6	$
+its bromo-analogue FLB 457_A6	$
+the corresponding trimethyl-tin derivative_A6	$
+an alternative synthetic pathway_A6	$
+the corresponding_A6	$
+benzoic acid_A6	$
+the optically pure aminomethylpyrrolidine-derivative_A6	$
+Demethylation_A6	$
+epidepride_A6	$
+the desmethyl-derivative_A6	$
+which_A6	$
+[ 11C ] methyl triflate_A6	$
+Total radiochemical yield_A6	$
+40-50 %_A6	$
+a total synthesis time_A6	$
+30 min_A6	$
+The specific radioactivity_A6	$
+the end_A6	$
+synthesis_A6	$
+37-111 GBq/micromol_A6	$
+1 , 000-3 , 000 Ci/mmol_A6	$
+Human postmortem whole-hemisphere autoradiography_A6	$
+dense binding_A6	$
+the caudate putamen_A6	$
+extrastriatal areas_A6	$
+the thalamus_A6	$
+the neocortex_A6	$
+The binding_A6	$
+unlabeled raclopride_A6	$
+PET studies_A6	$
+a cynomolgus monkey_A6	$
+high uptake_A6	$
+the striatum_A6	$
+several extrastriatal regions_A6	$
+90 min_A6	$
+injection_A6	$
+uptake_A6	$
+the striatum , thalamus and neocortex_A6	$
+about 11 , 4_A6	$
+2 times_A6	$
+the cerebellum_A6	$
+Pretreatment experiment_A6	$
+unlabeled raclopride_A6	$
+1 mg/kg_A6	$
+50-70 %_A6	$
+[ 11C ] epidepride binding_A6	$
+The fraction_A6	$
+unchanged [ 11C ] epidepride_A6	$
+monkey plasma_A6	$
+a gradient high performance liquid chromatography_A6	$
+HPLC_A6	$
+method_A6	$
+about 30 %_A6	$
+the total radioactivity_A6	$
+30 min_A6	$
+injection_A6	$
+[ 11C ] epidepride_A6	$
+The availability_A6	$
+11C_A6	$
+epidepride_A6	$
+the PET-verification_A6	$
+the data_A6	$
+quantitation studies_A6	$
+SPECT_A6	protein
+p27Kip1_A7	DNA
+a member_A7	$
+the Cip/Kip family_A7	protein
+cyclin-dependent kinase inhibitors_A7	protein
+It_A7	$
+a variety_A7	$
+cyclin/CDK complexes_A7	protein
+kinase activity_A7	$
+the cell cycle_A7	$
+Absent or reduced p27 expression_A7	protein
+a significant predictor_A7	$
+poor survival_A7	$
+breast_A7	$
+colorectal , prostate_A7	$
+non-small cell lung and esophagus carcinomas_A7	$
+An immunohistochemical assay_A7	$
+169 patients_A7	$
+primary breast cancers_A7	$
+the biologic significance_A7	$
+p27 expression_A7	protein
+Decreased p27 expression_A7	protein
+high grade_A7	$
+P_A7	$
+0_A7	$
+00025_A7	$
+negative estrogen receptor_A7	protein
+P_A7	$
+0_A7	$
+00004_A7	$
+negative progesterone receptor_A7	protein
+P_A7	$
+0_A7	$
+breast cancers_A7	$
+Univariate analysis_A7	$
+p27 expression_A7	protein
+overall survival_A7	$
+P_A7	$
+0_A7	$
+0001_A7	$
+multivariate analysis_A7	$
+p27_A7	protein
+the overall survival_A7	$
+P_A7	$
+0_A7	$
+Our study_A7	$
+p27 expression_A7	protein
+an independent prognostic marker_A7	$
+breast cancer_A7	$
+Taiwan_A7	$
+Inotropic effects_A8	$
+isolated neonatal and adult mouse myocardium_A8	$
+endothelin I_A8	$
+angiotensin II_A8	$
+I_A8	protein
+a sustained positive inotropic response_A8	$
+the neonate_A8	$
+a sustained negative response_A8	$
+the adult_A8	$
+Both_A8	$
+the endothelin ETA receptor antagonist_A8	protein
+BQ-123_A8	$
+Cyclo_A8	$
+D-a-aspartyl-L-prolyl-D-valyl-L-leucyl-D-tryptophyl_A8	$
+Angiotensin II_A8	protein
+a sustained positive inotropic response_A8	$
+the neonate_A8	$
+a sustained negative response_A8	$
+the adult_A8	$
+Both_A8	$
+the angiotensin AT1 receptor antagonist_A8	$
+YM358_A8	$
+2_A8	$
+7-diethyl-5-_A8	$
+2'-_A8	$
+1 H-tetrazol-5-yl_A8	$
+biphenyl-4-yl_A8	$
+methyl-5H-pyrazolo_A8	$
+1_A8	$
+1 , 2 , 4_A8	$
+tria zole potassium salt monohydrate_A8	$
+These results_A8	$
+inotropic responses_A8	$
+the mouse heart_A8	$
+cardioactive peptides_A8	$
+experimental animal species_A8	$
+development_A8	$
+Cleavage and polyadenylation specificity factor_A9	$
+CPSF_A9	protein
+a key component_A9	$
+the mammalian RNA 3'-end processing machinery_A9	$
+four subunits_A9	$
+160 , 100 , 73_A9	$
+30 kD_A9	$
+we_A9	$
+the isolation and characterization_A9	$
+a cDNA_A9	DNA
+the 30-kD polypeptide_A9	protein
+Antibodies_A9	protein
+this protein_A9	$
+cleavage and polyadenylation_A9	$
+the other CPSF subunits_A9	protein
+The protein sequence_A9	$
+five C3H-zinc-finger repeats_A9	DNA
+a putative RNA-binding zinc knuckle motif_A9	$
+the carboxyl terminus_A9	protein
+this observation_A9	$
+the in vitro_A9	$
+30-kD protein_A9	protein
+RNA polymers_A9	protein
+a distinct preference_A9	$
+poly_A9	$
+U_A9	$
+addition_A9	$
+an essential S_A9	$
+cerevisiae gene_A9	$
+YTH1_A9	DNA
+which_A9	$
+40 %_A9	$
+CPSF 30K_A9	protein
+the protein level_A9	$
+Extracts_A9	$
+a conditional yth1 mutant_A9	$
+normal cleavage activity_A9	$
+the upstream cleavage product_A9	protein
+Efficient polyadenylation activity_A9	$
+the addition_A9	$
+purified polyadenylation factor I_A9	$
+PF I_A9	DNA
+We_A9	$
+Yth1p_A9	protein
+a component_A9	$
+that_A9	protein
+Fip1p_A9	$
+a known PF I subunit_A9	protein
+cardiac sarcolemmal vesicles_A10	$
+MgATP_A10	protein
+Na+/Ca2+ exchange_A10	$
+the following characteristics_A10	$
+the apparent affinity_A10	$
+cytosolic Ca2+_A10	$
+a Michaelis constant_A10	$
+ATP_A10	$
+approximately 500 microM_A10	$
+micromolar vanadate_A10	$
+millimolar concentrations_A10	$
+4_A10	$
+the presence_A10	$
+20 microM eosin_A10	$
+vanadate_A10	$
+adenosine 5'-O-_A10	$
+3-thiotriphosphate_A10	$
+the need_A10	$
+vanadate_A10	$
+beta_A10	$
+gamma-methyleneadenosine 5'-triphosphate_A10	$
+6_A10	$
+unspecific protein alkaline phosphatase_A10	protein
+a phosphatidylinositol-specific phospholipase C_A10	protein
+PI-PLC_A10	protein
+The PI-PLC effect_A10	$
+phosphatidylinositol_A10	$
+addition_A10	$
+the absence_A10	$
+ATP_A10	$
+L-alpha-phosphatidylinositol 4_A10	$
+5-bisphosphate_A10	$
+PIP2_A10	protein
+the exchanger activity_A10	$
+vesicles_A10	$
+PI-PLC_A10	protein
+This MgATP stimulation_A10	protein
+phosphorylation_A10	$
+the carrier_A10	$
+phosphorylation_A10	$
+the phosphoinositides_A10	$
+mainly PIP2_A10	protein
+that_A10	$
+the exchanger_A10	$
+Vesicles_A10	$
+MgATP_A10	protein
+no Ca2+_A10	$
+a marked synthesis_A10	$
+L-alpha-phosphatidylinositol 4-monophosphate_A10	$
+PIP_A10	protein
+little production_A10	$
+PIP2_A10	protein
+the presence_A10	$
+1 microM Ca2+_A10	$
+the net synthesis_A10	$
+PIP_A10	protein
+that_A10	$
+PIP2_A10	protein
+These results_A10	$
+PIP2_A10	protein
+the MgATP stimulation_A10	$
+the cardiac Na+/Ca2+ exchanger_A10	protein
+a fast phosphorylation chain_A10	protein
+a Ca_A10	$
+-independent PIP formation_A10	$
+a Ca_A10	$
+-dependent synthesis_A10	$
+PIP2_A10	protein
+Aggregation_A11	$
+acetylcholine receptors_A11	protein
+AChRs_A11	protein
+muscle fibers_A11	$
+nerve-derived agrin_A11	protein
+a key role_A11	$
+the formation_A11	$
+neuromuscular junctions_A11	$
+the effects_A11	$
+agrin_A11	$
+muscle fibers_A11	$
+culture systems_A11	$
+transgenic animals_A11	$
+animals_A11	$
+agrin_A11	DNA
+cDNA constructs_A11	DNA
+We_A11	$
+recombinant chick neural and muscle agrin_A11	$
+rat soleus muscle_A11	$
+the following results_A11	$
+neural and muscle agrin_A11	$
+the surface_A11	$
+innervated and denervated muscle fibers_A11	$
+their entire length_A11	$
+Neural agrin_A11	protein
+a dose-dependent appearance_A11	$
+AChR aggregates_A11	$
+which_A11	$
+>_A11	$
+7 wk_A11	$
+a single application_A11	$
+Muscle agrin_A11	protein
+AChRs_A11	$
+the concentration_A11	$
+neural agrin_A11	protein
+binding_A11	$
+AChR-aggregating activity_A11	$
+neural agrin_A11	protein
+Electrical muscle activity_A11	$
+the stability_A11	$
+agrin binding_A11	$
+the number_A11	$
+size_A11	$
+spatial distribution_A11	$
+the neural agrin_A11	$
+induced AChR aggregates_A11	$
+Injected agrin_A11	$
+the muscles_A11	$
+laminin_A11	protein
+both proteins_A11	$
+agrin_A11	$
+laminin_A11	protein
+the present approach_A11	$
+a novel , simple_A11	$
+efficient method_A11	$
+the effects_A11	$
+agrin_A11	$
+muscle_A11	$
+controlled conditions_A11	$
+p70 S6 kinase_A12	protein
+p70_A12	protein
+S6k_A12	protein
+that_A12	protein
+a central role_A12	$
+the control_A12	$
+mRNA translation_A12	RNA
+It_A12	$
+the S6 protein_A12	protein
+the 40s ribosomal subunit_A12	protein
+response_A12	$
+mitogenic stimuli_A12	$
+a downstream component_A12	$
+the rapamycin-sensitive pathway_A12	$
+which_A12	$
+the 12-kDa FK506 binding protein_A12	protein
+rapamycin_A12	$
+the 12-kDa FK506 binding protein target 1_A12	protein
+we_A12	$
+the identification_A12	$
+neurabin_A12	$
+neural tissue-specific F-actin binding protein_A12	protein
+a neuronally enriched protein_A12	protein
+1_A12	$
+that_A12	$
+a PDZ domain_A12	protein
+p70_A12	protein
+S6k_A12	protein
+We_A12	$
+the neurabin_A12	protein
+S6k_A12	$
+interaction_A12	$
+yeast two-hybrid analysis_A12	$
+biochemical techniques_A12	$
+p70_A12	protein
+S6k_A12	protein
+neurabin_A12	$
+transfected HEK293 cells_A12	cell_line
+Site-directed mutagenesis_A12	$
+neurabin_A12	protein
+its PDZ domain_A12	protein
+the interaction_A12	$
+p70_A12	protein
+S6k_A12	protein
+deletion_A12	$
+the carboxyl-terminal five amino acids_A12	protein
+p70_A12	protein
+S6k_A12	protein
+the interaction_A12	$
+Cotransfection_A12	$
+neurabin_A12	protein
+HEK293 cells_A12	cell_line
+p70_A12	protein
+S6k_A12	protein
+kinase activity_A12	protein
+The mRNA_A12	RNA
+neurabin_A12	protein
+p70_A12	protein
+S6k_A12	protein
+striking colocalization_A12	$
+brain sections_A12	$
+in situ hybridization_A12	$
+Subcellular fractionation_A12	$
+rat brain_A12	$
+neurabin_A12	protein
+p70_A12	protein
+S6k_A12	protein
+both_A12	$
+the soluble fraction_A12	$
+synaptosomes_A12	$
+way_A12	$
+its PDZ domain_A12	protein
+the neuronal-specific neurabin_A12	protein
+p70_A12	protein
+S6k_A12	protein
+terminals_A12	$
+The fusion gene CBFB-MYH11_A13	DNA
+the chromosome 16 inversion_A13	DNA
+acute myeloid leukemias_A13	$
+This gene_A13	$
+a chimeric protein_A13	protein
+the core binding factor beta_A13	$
+CBFbeta_A13	protein
+the smooth-muscle myosin heavy chain SMMHC_A13	protein
+Mouse model studies_A13	$
+this chimeric protein CBFbeta-SMMHC_A13	protein
+the function_A13	$
+CBF_A13	protein
+a heterodimeric transcription factor_A13	protein
+DNA binding subunits_A13	protein
+CBFalpha1_A13	protein
+3_A13	$
+a non-DNA binding subunit_A13	protein
+CBFbeta_A13	protein
+This dominant suppression_A13	$
+results_A13	$
+the blockage_A13	$
+hematopoiesis_A13	$
+mice_A13	$
+leukemogenesis_A13	$
+We_A13	$
+transient-transfection assays_A13	$
+combination_A13	$
+immunofluorescence_A13	$
+green fluorescent protein-tagged proteins_A13	protein
+subcellular localization_A13	$
+CBFbeta-SMMHC_A13	protein
+CBFbeta_A13	protein
+CBFalpha2_A13	protein
+AML1_A13	protein
+PEBP2alphaB_A13	protein
+CBFalpha2_A13	protein
+the nuclei_A13	$
+transfected cells_A13	cell_line
+CBFbeta_A13	protein
+the cell_A13	$
+the other hand_A13	$
+CBFbeta-SMMHC_A13	protein
+that_A13	$
+actin filaments_A13	protein
+cotransfection_A13	$
+CBFalpha2_A13	protein
+localization_A13	$
+CBFbeta_A13	protein
+the nucleus_A13	$
+a dose-dependent manner_A13	$
+CBFalpha2_A13	protein
+CBFbeta-SMMHC_A13	protein
+the filaments_A13	$
+the nucleus_A13	$
+Deletion_A13	$
+the CBFalpha-interacting domain_A13	protein
+CBFbeta-SMMHC_A13	protein
+this CBFalpha2 sequestration_A13	protein
+truncation_A13	$
+the C-terminal-end SMMHC domain_A13	protein
+nuclear localization_A13	$
+CBFbeta-SMMHC_A13	protein
+CBFalpha2_A13	protein
+CBFalpha2 sequestration_A13	protein
+CBFbeta-SMMHC_A13	protein
+a knock-in mouse model_A13	$
+These observations_A13	$
+CBFbeta-SMMHC_A13	protein
+a dominant negative role_A13	$
+CBFalpha2_A13	protein
+cytoskeletal filaments and aggregates_A13	$
+CBFalpha2-mediated regulation_A13	$
+gene expression_A13	$
+Differentiating cells_A14	cell_type
+alterations_A14	$
+their patterns_A14	$
+gene expression_A14	$
+which_A14	$
+structural changes_A14	$
+chromatin_A14	DNA
+we_A14	$
+T cell differentiation_A14	$
+long-range changes_A14	$
+the chromatin structure_A14	DNA
+effector cytokine genes_A14	DNA
+which_A14	$
+persist_A14	$
+resting Th1 and Th2 cells_A14	cell_type
+the absence_A14	$
+further stimulation_A14	$
+Differentiation_A14	$
+naive T helper cells_A14	cell_type
+mature Th2 cells_A14	cell_type
+chromatin remodeling_A14	DNA
+the IL-4 and IL-13 genes_A14	protein
+differentiation_A14	$
+Th1 cells_A14	cell_type
+remodeling_A14	$
+IL-4_A14	protein
+IL-13 genes_A14	DNA
+IL-4 locus remodeling_A14	protein
+demethylation_A14	$
+antigen stimulation_A14	$
+STAT6 activation_A14	protein
+We_A14	$
+chromatin remodeling_A14	DNA
+cytokine gene loci_A14	DNA
+productive T cell differentiation_A14	$
+the coordinate regulation_A14	$
+Th2 cytokine genes_A14	DNA
+The prefrontal_A15	$
+PF_A15	$
+cortex_A15	$
+the remarkable ability_A15	$
+primates_A15	$
+arbitrary associations_A15	$
+This ability_A15	$
+two monkeys_A15	$
+that_A15	$
+them_A15	$
+specific saccades_A15	$
+response_A15	$
+particular cues_A15	$
+these responses_A15	$
+We_A15	$
+the activity_A15	$
+individual PF neurons_A15	$
+the cues_A15	$
+the associated responses_A15	$
+a neural substrate_A15	$
+their association_A15	$
+learning_A15	$
+neural activity_A15	$
+the direction_A15	$
+^ impending responses_A15	$
+each successive trial_A15	$
+The final level_A15	$
+activity_A15	$
+the response_A15	$
+These results_A15	$
+a role_A15	$
+the PF cortex_A15	$
+arbitrary cue-response associations_A15	$
+an ability_A15	$
+complex behavior_A15	$
+The glial cell line-derived neurotrophic factor_A16	protein
+GDNF_A16	$
+ligands_A16	$
+GDNF_A16	protein
+Neurturin_A16	protein
+NTN_A16	protein
+Persephin_A16	$
+PSP_A16	protein
+signal_A16	$
+a multicomponent receptor system_A16	protein
+a high-affinity binding component_A16	protein
+GFRalpha1-GFRalpha4_A16	protein
+a common signaling component_A16	$
+RET_A16	$
+we_A16	$
+the identification_A16	$
+Artemin_A16	protein
+a novel member_A16	$
+the GDNF family_A16	protein
+it_A16	$
+the ligand_A16	$
+the former orphan receptor GFRalpha3-RET_A16	$
+Artemin_A16	protein
+a survival factor_A16	protein
+sensory and sympathetic neurons_A16	$
+culture_A16	$
+its expression pattern_A16	$
+it_A16	$
+these neurons_A16	$
+Artemin_A16	$
+the GFRalpha1-RET complex_A16	protein
+the survival_A16	$
+dopaminergic midbrain neurons_A16	$
+culture_A16	$
+like GDNF_A16	$
+GFRalpha1-RET_A16	$
+NTN_A16	protein
+GFRalpha2-RET_A16	$
+Artemin_A16	protein
+a preferred receptor_A16	$
+GFRalpha3-RET_A16	$
+alternative receptor interactions_A16	$
+The steroid hormone ecdysone_A17	$
+Drosophila metamorphosis_A17	$
+that_A17	protein
+which_A17	$
+three ecdysone receptor isoforms_A17	protein
+the EcR gene_A17	DNA
+EcR-A_A17	$
+EcR-B1_A17	$
+EcR-B2_A17	$
+the orphan nuclear receptor USP_A17	protein
+We_A17	$
+two classes_A17	$
+EcR mutations_A17	$
+those_A17	$
+EcR-B1_A17	$
+uncouple metamorphosis_A17	$
+that_A17	$
+common sequences_A17	$
+the DNA-_A17	$
+ligand-binding domains_A17	protein
+the larval salivary gland_A17	$
+loss_A17	$
+EcR-B1_A17	protein
+loss_A17	$
+activation_A17	$
+ecdysone-induced genes_A17	DNA
+Comparable transgenic expression_A17	$
+EcR-B1_A17	protein
+EcR-B2_A17	protein
+EcR-A_A17	$
+these mutant glands results_A17	$
+full , partial_A17	$
+no repair_A17	$
+that loss_A17	$
+We_A18	$
+head direction_A18	$
+HD_A18	$
+cells_A18	$
+the lateral mammillary nucleus_A18	$
+LMN_A18	protein
+anterior thalamus_A18	$
+ATN_A18	$
+rats_A18	$
+bilateral lesions_A18	$
+LMN_A18	protein
+HD cells_A18	cell_line
+ATN_A18	protein
+We_A18	$
+the tuning functions_A18	$
+LMN HD cells_A18	cell_line
+contraversive head turns_A18	$
+ipsiversive head turns_A18	$
+the head_A18	$
+This narrowing effect_A18	$
+ATN HD cells_A18	cell_type
+We_A18	$
+the HD signal_A18	$
+LMN_A18	protein
+ATN_A18	$
+about 15-20 ms_A18	$
+LMN_A18	protein
+HD cells_A18	cell_type
+ATN_A18	$
+their directional firing properties_A18	$
+them_A18	$
+these findings_A18	$
+we_A18	$
+LMN_A18	protein
+an essential component_A18	$
+that_A18	$
+the HD signal_A18	$
+Fas CD95_A19	protein
+Fas ligand FasL_A19	protein
+major roles_A19	$
+staphylococcal enterotoxin B SEB-induced peripheral deletion_A19	protein
+Vbeta8+ T cells_A19	cell_line
+We_A19	$
+peripheral deletion_A19	$
+radiation chimeras_A19	$
+non-functional tissue FasL_A19	protein
+the FasL status_A19	protein
+the bone marrow-derived cells_A19	cell_type
+SEB_A19	protein
+a upregulation_A19	$
+FasL_A19	protein
+This effect_A19	$
+inhibition_A19	$
+cyclosporin A_A19	$
+which_A19	$
+peripheral deletion_A19	$
+nonlymphoid tissues_A19	$
+FasL_A19	protein
+response_A19	$
+SEB_A19	protein
+transplanted lymphocytes_A19	cell_type
+some immune responses_A19	$
+FasL_A19	protein
+nonlymphoid tissues_A19	$
+which_A19	$
+turn kills_A19	$
+lymphocytes_A19	cell_type
+peripheral T cell deletion_A19	$
+Tyrosine phosphorylation_A20	$
+linker proteins_A20	protein
+the T cell antigen receptor ( TCR ) -associated protein tyrosine kinases_A20	protein
+that_A20	protein
+second messengers_A20	protein
+We_A20	$
+the SLP-76 linker protein_A20	protein
+nck_A20	protein
+an adaptor protein_A20	protein
+Vav_A20	protein
+a guanine nucleotide exchange factor_A20	protein
+Rho-family GTPases_A20	protein
+The assembly_A20	$
+this tri-molecular complex_A20	protein
+the activated Rho-family GTPases_A20	protein
+that_A20	$
+nck_A20	protein
+turn_A20	$
+assembly_A20	$
+this complex_A20	$
+the enzymatic activation_A20	$
+the p21-activated protein kinase 1_A20	protein
+actin polymerization_A20	protein
+phosphorylation_A20	$
+linker proteins_A20	protein
+the TCR-associated PTK_A20	protein
+ZAP-70_A20	protein
+downstream effector proteins_A20	protein
+a scaffold_A20	$
+distinct signaling complexes_A20	protein
+T cell function_A20	cell_type
+Olfactory sensory neurons_A21	cell_type
+a given odorant receptor project_A21	$
+two topographically fixed glomeruli_A21	$
+the olfactory bulb_A21	$
+We_A21	$
+the contribution_A21	$
+different cell types_A21	$
+the olfactory bulb_A21	$
+the establishment_A21	$
+this topographic map_A21	$
+Mice_A21	$
+a homozygous deficiency_A21	$
+Tbr-1_A21	protein
+most projection neurons_A21	$
+mice_A21	$
+a homozygous deficiency_A21	$
+Dlx-1 and Dlx-2_A21	protein
+most GABAergic interneurons_A21	protein
+Mice_A21	$
+a P2-IRES-tau-lacZ allele_A21	DNA
+Tbr-1 or Dlx-1/Dlx-2_A21	protein
+the convergence_A21	$
+axons_A21	$
+one medial_A21	$
+one lateral site_A21	$
+positions_A21	$
+those_A21	$
+wild-type mice_A21	$
+These observations_A21	$
+the establishment_A21	$
+a topographic map_A21	$
+cues_A21	$
+synapse formation_A21	$
+the major neuronal cell types_A21	$
+the olfactory bulb_A21	$
+Cocaine_A22	$
+the transcription factor CREB_A22	protein
+'_A22	$
+5'-monophosphate response element binding protein_A22	DNA
+rat nucleus_A22	$
+that_A22	DNA
+addiction_A22	$
+Overexpression_A22	$
+CREB_A22	protein
+this region_A22	$
+the rewarding effects_A22	$
+cocaine_A22	$
+low doses_A22	$
+the drug_A22	$
+overexpression_A22	$
+a dominant-negative mutant CREB_A22	protein
+the rewarding effects_A22	$
+cocaine_A22	$
+Altered transcription_A22	$
+dynorphin_A22	$
+these effects_A22	$
+Its expression_A22	$
+overexpression_A22	$
+CREB_A22	protein
+overexpression_A22	$
+mutant CREB_A22	protein
+blockade_A22	$
+kappa opioid receptors_A22	protein
+dynorphin_A22	$
+the negative effect_A22	$
+CREB_A22	protein
+cocaine reward_A22	$
+These results_A22	$
+an intracellular cascade-culminating_A22	$
+which exposure_A22	$
+cocaine_A22	$
+subsequent responsiveness_A22	$
+the drug_A22	$
+Mesodermal progenitors_A23	cell_type
+the Drosophila embryo_A23	$
+discrete clusters_A23	$
+lethal_A23	$
+scute_A23	cell_line
+l'sc_A23	cell_line
+-expressing cells_A23	cell_line
+genetic loss-of-function_A23	$
+ectopic expression approaches_A23	$
+we_A23	$
+individual progenitors_A23	$
+the sequential deployment_A23	$
+unique combinations_A23	$
+intercellular signals_A23	$
+the intersection_A23	$
+the Wingless_A23	$
+Wg_A23	$
+Decapentaplegic_A23	$
+Dpp_A23	protein
+expression domains_A23	$
+that_A23	$
+the adjacent mesoderm_A23	$
+the form_A23	$
+a L'sc precluster_A23	DNA
+All mesodermal cells_A23	cell_type
+this precluster_A23	$
+a subsequent instructive signal_A23	$
+two receptor tyrosine kinases_A23	protein
+RTKs_A23	protein
+the Drosophila epidermal growth factor receptor_A23	protein
+DER_A23	$
+the Heartless_A23	protein
+Htl_A23	protein
+fibroblast growth factor receptor_A23	protein
+the expression_A23	$
+the diphosphorylated form_A23	$
+mitogen-associated protein kinase_A23	protein
+MAPK_A23	protein
+we_A23	$
+these RTKs_A23	protein
+small clusters_A23	$
+cells_A23	$
+the original competence domain_A23	protein
+Each cluster_A23	$
+an equivalence group_A23	$
+all members_A23	$
+progenitors_A23	$
+theirr expression_A23	$
+L'sc_A23	DNA
+mesodermal identity genes_A23	DNA
+localized RTK activity_A23	$
+the formation_A23	$
+mesodermal equivalence groups_A23	$
+The RTKs_A23	protein
+that_A23	$
+each cluster_A23	$
+the subsequent inhibitory influence_A23	$
+the neurogenic genes_A23	DNA
+DER and Htl_A23	protein
+the specification_A23	$
+particular progenitors_A23	cell_type
+We_A23	$
+distinct cellular identity codes_A23	$
+the combinatorial activities_A23	$
+Wg_A23	DNA
+Dpp_A23	protein
+EGF_A23	protein
+FGF signals_A23	protein
+the progressive determination_A23	$
+embryonic mesodermal cells_A23	cell_type
+The effects_A24	$
+pituitary-derived melanocortin peptides_A24	$
+ACTH-mediated adrenocortical glucocorticoid production_A24	$
+Identification_A24	$
+a widely distributed receptor_A24	$
+ACTH/MSH peptides_A24	$
+the melanocortin-5 receptor_A24	protein
+MC5-R_A24	protein
+non-steroidally mediated systemic effects_A24	$
+these peptides_A24	$
+Targeted disruption_A24	$
+the MC5-R_A24	protein
+mice_A24	$
+a severe defect_A24	$
+water repulsion_A24	$
+thermoregulation_A24	$
+decreased production_A24	$
+sebaceous lipids_A24	$
+High levels_A24	$
+MC5-R_A24	protein
+multiple exocrine tissues_A24	$
+Harderian , preputial , lacrimal_A24	$
+sebaceous glands_A24	$
+production_A24	$
+stress-regulated synthesis_A24	$
+porphyrins_A24	$
+the Harderian gland_A24	$
+ACTH/MSH-regulated protein secretion_A24	$
+the lacrimal gland_A24	$
+These data_A24	$
+a requirement_A24	$
+the MC5-R_A24	protein
+multiple exocrine glands_A24	$
+the production_A24	$
+numerous products_A24	$
+a coordinated system_A24	$
+regulation_A24	$
+exocrine gland function_A24	$
+melanocortin peptides_A24	$
+Neuropilin-1 and neuropilin-2_A25	protein
+specificity_A25	$
+binding_A25	$
+III semaphorins_A25	protein
+Sema III_A25	protein
+Sema E_A25	$
+Sema IV_A25	protein
+the specificity_A25	$
+action_A25	$
+these semaphorins_A25	$
+the complement_A25	$
+neuropilins_A25	protein
+responsive neurons_A25	$
+support_A25	$
+this_A25	$
+we_A25	$
+sympathetic axons_A25	$
+neuropilin-1_A25	protein
+-2_A25	protein
+their responses_A25	$
+Sema III_A25	protein
+Sema E_A25	$
+Sema IV_A25	protein
+predicted ways_A25	$
+antibodies_A25	protein
+neuropilin-1_A25	protein
+neuropilin-1_A25	protein
+-2_A25	protein
+heterooligomers_A25	$
+an interaction_A25	$
+the neuropilin MAM_A25	$
+meprin_A25	$
+A5_A25	protein
+mu_A25	$
+domain_A25	$
+These results_A25	$
+the idea_A25	$
+sympathetic axons_A25	$
+the Sema III signal_A25	$
+neuropilin-1 oligomers_A25	protein
+the Sema IV signal_A25	$
+neuropilin-2 oligomers_A25	protein
+the Sema E signal_A25	$
+neuropilin-1_A25	protein
+-2_A25	protein
+heterooligomers_A25	protein
+Hippocampal long-term potentiation_A26	$
+LTP_A26	protein
+long-term depression_A26	$
+LTD_A26	$
+the most widely studied forms_A26	$
+synaptic plasticity_A26	$
+spatial learning and memory_A26	$
+We_A26	$
+RARbeta deficiency_A26	protein
+mice_A26	$
+hippocampal CA1 LTP and LTD_A26	$
+It_A26	$
+substantial performance deficits_A26	$
+spatial learning and memory tasks_A26	$
+RXRgamma null mice_A26	protein
+a distinct phenotype_A26	$
+LTD_A26	protein
+LTP_A26	protein
+retinoid receptors_A26	protein
+LTP and LTD_A26	protein
+they_A26	$
+different ways_A26	$
+These findings_A26	$
+genetically uncouple LTP and LTD_A26	$
+a novel and unexpected role_A26	$
+vitamin A_A26	protein
+higher cognitive functions_A26	$
+Familial prion diseases_A27	$
+mutations_A27	$
+the gene_A27	$
+the prion protein_A27	protein
+PrP_A27	protein
+We_A27	$
+that_A27	$
+the mouse homolog_A27	$
+a mutant human PrP_A27	protein
+a nine octapeptide insertion_A27	$
+prion dementia_A27	$
+These mice_A27	$
+a slowly progressive neurological disorder_A27	$
+ataxia_A27	$
+cerebellar atrophy and granule cell loss_A27	$
+gliosis_A27	$
+that_A27	$
+the cerebellum and hippocampus_A27	$
+Mutant PrP molecules_A27	protein
+the brains_A27	$
+these mice_A27	$
+digestion_A27	$
+low concentrations_A27	$
+proteinase K_A27	$
+several other biochemical properties_A27	$
+PrP_A27	protein
+Sc_A27	protein
+the pathogenic isoform_A27	$
+PrP_A27	protein
+These results_A27	$
+a new transgenic animal model_A27	$
+an inherited human prion disorder_A27	$
+Drosophila neural development_A28	$
+neuroblasts_A28	cell_type
+the neuroectoderm_A28	$
+each hemisegment_A28	$
+a stereotypic orthogonal array_A28	$
+five rows_A28	$
+three columns_A28	$
+ventral , intermediate_A28	$
+dorsal_A28	protein
+Prevailing evidence_A28	$
+the individual neuroblast fate_A28	$
+the domain-specific expression_A28	$
+genes_A28	DNA
+the dorsoventral and anteroposterior axis_A28	$
+we_A28	$
+the role_A28	$
+Vnd_A28	protein
+a NK-2 homeodomain protein_A28	protein
+the ventral neuroectoderm_A28	$
+the ventral midline_A28	$
+the dorsoventral patterning_A28	$
+the neuroectoderm_A28	$
+the neuroblasts_A28	cell_type
+We_A28	$
+most ventral neuroblasts_A28	cell_type
+that form_A28	$
+ventral fates_A28	$
+intermediate-like fates_A28	$
+we_A28	$
+Vnd_A28	protein
+the gene expression patterns_A28	$
+the ventral proneural clusters and neuroectoderm_A28	$
+its action_A28	$
+neuroblast formation_A28	cell_type
+the activation_A28	$
+proneural AS-C genes_A28	DNA
+the use_A28	$
+we_A28	$
+ectopic Vnd expression_A28	$
+ventral-like fates_A28	$
+intermediate and dorsal neuroblasts_A28	cell_type
+certain normal characteristics_A28	$
+the intermediate and dorsal neuroectoderm_A28	$
+Our results_A28	$
+the context_A28	$
+the current evidence_A28	$
+dorsoventral patterning_A28	$
+the Drosophila neuroectoderm_A28	$
+Germ-line stem cells_A29	cell_line
+GSCs_A29	cell_type
+the source_A29	$
+gametogenesis_A29	$
+diverse organisms_A29	$
+We_A29	$
+the Drosophila piwi gene_A29	DNA
+it_A29	$
+the asymmetric division_A29	$
+GSCs_A29	cell_type
+a daughter GSC_A29	$
+the further differentiation_A29	$
+the committed daughter cell_A29	cell_type
+in situ analyses_A29	$
+piwi expression_A29	$
+adjacent somatic cells_A29	cell_type
+GSC division_A29	$
+piwi_A29	$
+a highly basic novel protein_A29	$
+evolution_A29	$
+We_A29	$
+piwi homologs_A29	protein
+Caenorhabditis elegans and humans_A29	$
+Arabidopsis piwi-like genes_A29	DNA
+meristem cell maintenance_A29	$
+C_A29	$
+elegans piwi expression_A29	$
+the proliferation_A29	$
+GSC-equivalent cells_A29	cell_type
+piwi_A29	$
+a novel class_A29	$
+genes_A29	DNA
+GSC division_A29	$
+diverse organisms_A29	$
+The nmd mouse mutation_A30	$
+progressive degeneration_A30	$
+spinal motor neurons_A30	cell_type
+muscle atrophy_A30	$
+We_A30	$
+the mutated gene_A30	DNA
+the putative transcriptional activator and ATPase/DNA helicase_A30	$
+Smbp2_A30	protein
+Rip1_A30	protein
+Gf1_A30	protein
+Catf1_A30	protein
+Mutations_A30	$
+two alleles-a single amino acid deletion_A30	$
+nmdJ_A30	DNA
+a splice donor mutation_A30	$
+nmd2J_A30	cell_line
+The selective vulnerability_A30	$
+motor neurons_A30	cell_type
+view_A30	$
+the widespread expression_A30	$
+this gene_A30	$
+the pattern_A30	$
+degeneration_A30	$
+a specific threshold_A30	$
+neither allele_A30	DNA
+addition_A30	$
+the severity_A30	$
+the nmd phenotype_A30	$
+a semidominant fashion_A30	$
+a major genetic locus_A30	$
+chromosome_A30	DNA
+Chr_A30	DNA
+13_A30	DNA
+The identification_A30	$
+the nmd gene_A30	DNA
+mapping_A30	$
+a major suppressor_A30	$
+new opportunities_A30	$
+mechanisms_A30	$
+motor neuron degeneration_A30	$
+Boundary elements_A31	DNA
+the ends_A31	$
+functionally independent domains_A31	$
+genetic activity_A31	$
+An assay_A31	$
+boundary activity_A31	$
+this concept_A31	$
+the ability_A31	$
+a bracketed , chromosomally integrated reporter gene_A31	DNA
+position effects_A31	$
+their_A31	$
+presumed importance_A31	$
+the few examples_A31	$
+date_A31	$
+sequence motifs_A31	DNA
+DNA binding proteins_A31	protein
+The Drosophila protein BEAF_A31	protein
+' boundary element_A31	DNA
+the 87A7 hsp70 locus_A31	DNA
+roughly half_A31	$
+polytene chromosome interband loci_A31	DNA
+these sites_A31	$
+a class_A31	$
+that_A31	DNA
+BEAF_A31	protein
+we_A31	$
+several genomic BEAF binding sites_A31	DNA
+candidate boundary elements_A31	DNA
+cBEs_A31	$
+BEAF_A31	protein
+high affinity_A31	$
+variably arranged CGATA motifs_A31	DNA
+these cBEs_A31	$
+No other sequence homologies_A31	$
+Two cBEs_A31	$
+position-independent expression_A31	$
+a mini-white reporter gene_A31	DNA
+transgenic flies_A31	$
+point mutations_A31	$
+that_A31	DNA
+binding_A31	$
+BEAF_A31	protein
+the ability_A31	$
+position-independent expression_A31	$
+these findings_A31	$
+clustered CGATA motifs_A31	DNA
+a hallmark_A31	$
+a BEAF-utilizing class_A31	$
+boundary elements_A31	DNA
+many loci_A31	$
+This_A31	$
+the first example_A31	$
+a class_A31	$
+that_A31	DNA
+a sequence motif_A31	DNA
+a binding protein_A31	protein

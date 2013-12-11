@@ -1,0 +1,39 @@
+:- modeh(1,corefers(+word,+word)).
+
+:- modeb(*,nameNP(+word)).
+:- modeb(*,not(nameNP(+word))).
+:- modeb(*,indefinite(+word)).
+:- modeb(*,not(indefiniteNP(+word))).
+:- modeb(*,definiteNP(+word)).
+:- modeb(*,not(definiteNP(+word))).
+:- modeb(*,bareNP(+word)).
+:- modeb(*,not(bareNP(+word))).
+:- modeb(*,pronounNP(+word)).
+:- modeb(*,not(pronounNP(+word))).
+:- modeb(*,string_match_head(+word,+word)).
+:- modeb(*,not(string_match_head(+word,+word))).
+:- modeb(*,string_match_full(+word,+word)).
+:- modeb(*,not(string_match_full(+word,+word))).
+:- modeb(*,string_match_contain(+word,+word)).
+:- modeb(*,not(string_match_contain(+word,+word))).
+
+:- set(interactive, true).
+:- set(noise,100).
+:- set(minacc,0.07).
+
+:- determination(corefers/2,nameNP/1).
+:- determination(corefers/2,(not)/1).
+:- determination(corefers/2,indefiniteNP/1).
+:- determination(corefers/2,(not)/1).
+:- determination(corefers/2,definiteNP/1).
+:- determination(corefers/2,(not)/1).
+:- determination(corefers/2,bareNP/1).
+:- determination(corefers/2,(not)/1).
+:- determination(corefers/2,pronounNP/1).
+:- determination(corefers/2,(not)/1).
+:- determination(corefers/2,string_match_head/2).
+:- determination(corefers/2,(not)/1).
+:- determination(corefers/2,string_match_full/2).
+:- determination(corefers/2,(not)/1).
+:- determination(corefers/2,string_match_contain/2).
+:- determination(corefers/2,(not)/1).

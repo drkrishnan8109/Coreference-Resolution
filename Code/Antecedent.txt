@@ -1,0 +1,74 @@
+1	its
+2	its
+9	which 
+6	their
+9	their
+19	both antagonists
+20	both antagonists
+11	both receptor types
+12	both receptor types
+40	both populations of cells
+41	both populations of cells
+40	either
+41	either
+39	The increases
+52	each cell type
+50	each cell type
+8	each inhibitor
+1	each inhibitor
+8	these reactions
+2	contractions
+3	those
+34	the response
+37	The binding 
+72	It 
+26	Both
+27	Both
+28	Both
+29	Both
+30	its
+3	this protein
+4	The protein sequence
+35	Na+/Ca2+ exchange
+35	the exchanger activity in vesicles
+37	the exchanger
+63	cardiac Na+/Ca2+ exchanger
+2	their
+7	both proteins
+8	both proteins
+21	It
+47	its
+50	its
+43	This gene
+47	This dominant suppression
+2	their
+5	which
+7	This ability
+9	its
+9	it
+13	these mutant glands
+15	their
+17	them
+19	This effect
+21	which
+23	this tri-molecular complex
+25	this tri-molecular complex
+27	this tri-molecular complex
+30	this topographic map
+33	this region
+35	which
+54	these RTKs
+39	these peptides
+42	these semaphorins
+44	their
+47	It
+49	they
+52	These mice
+53	these mice
+60	it
+63	the mutated gene
+64	this gene
+66	Boundary elements
+71	their
+67	examples
+69	these sites

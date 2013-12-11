@@ -1,0 +1,10 @@
+indefiniteNP("both antagonists_m27").
+indefiniteNP("both receptor types_m29").
+indefiniteNP("each cell type_m56").
+indefiniteNP("each inhibitor_m58").
+indefiniteNP("Both_m117").
+indefiniteNP("Both_m122").
+indefiniteNP("both proteins_m160").
+indefiniteNP("a neuronally enriched protein_m175").
+indefiniteNP("a NK-2 homeodomain protein_m297").
+

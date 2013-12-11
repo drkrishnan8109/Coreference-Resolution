@@ -1,0 +1,6 @@
+member(0,[1,2]).
+member(0,[1]).
+member(1,[0]).
+member(3,[]).
+member(2,[]).
+member(2,[3]).

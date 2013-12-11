@@ -1,0 +1,73 @@
+bareNP("FAP-1_m1").
+bareNP("Fas-mediated apoptosis_m2").
+bareNP("Fas-mediated apoptosis_m11").
+bareNP("ET_m14").
+bareNP("125I-ET binding_m19").
+bareNP("BQ 123_m24").
+bareNP("BQ 788_m25").
+bareNP("growth_m26").
+bareNP("nifedipine_m41").
+bareNP("SKF 96365_m43").
+bareNP("CYP1B1_m45").
+bareNP("1-ethynylpyrene_m47").
+bareNP("1EP_m48").
+bareNP("DMBA_m50").
+bareNP("1PP_m53").
+bareNP("DMBA metabolism_m57").
+bareNP("DMBA metabolism_m62").
+bareNP("carbon monoxide_m63").
+bareNP("CO_m64").
+bareNP("SB203580_m77").
+bareNP("phosphatidyl inositol_m79").
+bareNP("PI_m80").
+bareNP("ET_m83").
+bareNP("Ca2+-free medium_m86").
+bareNP("contractions_m87").
+bareNP("intracellular calcium mobilization_m90").
+bareNP("KCI concentration-response curves_m93").
+bareNP("SB 209670_m95").
+bareNP("BQ-123_m97").
+bareNP("SB 209670_m100").
+bareNP("BQ-123_m101").
+bareNP("kinase activity_m113").
+bareNP("Inotropic effects_m114").
+bareNP("Cleavage and polyadenylation specificity factor_m128").
+bareNP("this protein_m131").
+bareNP("purified polyadenylation factor I_m138").
+bareNP("Fip1p_m142").
+bareNP("Na+/Ca2+ exchange_m145").
+bareNP("neural and muscle agrin_m153").
+bareNP("muscle fibers_m154").
+bareNP("agrin_m156").
+bareNP("agrin_m158").
+bareNP("agrin_m161").
+bareNP("p70 S6 kinase_m165").
+bareNP("neurabin_m173").
+bareNP("neurabin_m180").
+bareNP("This gene_m189").
+bareNP("This dominant suppression_m196").
+bareNP("which_m201").
+bareNP("PF_m203").
+bareNP("This ability_m205").
+bareNP("GDNF_m207").
+bareNP("head direction_m218").
+bareNP("HD_m219").
+bareNP("anterior thalamus_m222").
+bareNP("ATN_m223").
+bareNP("SEB_m233").
+bareNP("This effect_m235").
+bareNP("which_m237").
+bareNP("this topographic map_m247").
+bareNP("this region_m252").
+bareNP("which_m254").
+bareNP("Wg_m256").
+bareNP("DER_m262").
+bareNP("Htl_m264").
+bareNP("ACTH/MSH peptides_m268").
+bareNP("sympathetic axons_m275").
+bareNP("long-term depression_m282").
+bareNP("LTD_m283").
+bareNP("this gene_m309").
+bareNP("Chr_m311").
+bareNP("cBEs_m319").
+

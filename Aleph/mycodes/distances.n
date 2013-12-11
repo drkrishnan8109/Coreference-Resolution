@@ -1,0 +1,4 @@
+distance(abc,def,[abc,def,child,aunt,grandfather,grandmother]).
+distance(ghi,jkl,[aunt,ghi,child,grandfather,jkl,grandmother,brother]).
+distance(grandf,grandm,[aunt,grandf,grandm,child,brother]).
+distance(sis,broth,[man,woman,sis,broth,child,grandfather]).

@@ -1,0 +1,3 @@
+nameNP("p70 (S6k)_m178").
+nameNP("adenosine 3^, 5'-monophosphate response element binding protein_m249").
+

@@ -1,0 +1,116 @@
+Fas	Fas	NN	B-NP	B-protein	Mention 228	
+CD95	CD95	NN	I-NP	B-protein	Mention 229	
+and	and	CC	O	O	
+Fas	Fas	NN	B-NP	B-protein	Mention 230	
+ligand	ligand	NN	I-NP	O	
+FasL	FasL	NN	I-NP	B-protein	Mention 231	
+play	play	VBP	B-VP	O	
+major	major	JJ	B-NP	O	
+roles	role	NNS	I-NP	O	
+in	in	IN	B-PP	O	
+staphylococcal	staphylococcal	JJ	B-NP	B-protein	Mention 232	
+enterotoxin	enterotoxin	NN	I-NP	I-protein	
+B	B	NN	I-NP	I-protein	
+SEB-induced	SEB-induced	JJ	I-NP	O	Mention 233	
+peripheral	peripheral	JJ	I-NP	O	
+deletion	deletion	NN	I-NP	O	
+of	of	IN	B-PP	O	
+Vbeta8+	Vbeta8+	JJ	B-NP	B-cell_line	
+T	T	NN	I-NP	I-cell_line	
+cells	cell	NNS	I-NP	I-cell_line	
+.	.	.	O	O	
+We	We	PRP	B-NP	O	
+found	find	VBD	B-VP	O	
+that	that	IN	B-SBAR	O	
+peripheral	peripheral	JJ	B-NP	O	
+deletion	deletion	NN	I-NP	O	
+was	be	VBD	B-VP	O	
+defective	defective	JJ	B-ADJP	O	
+in	in	IN	B-PP	O	
+radiation	radiation	NN	B-NP	O	
+chimeras	chimera	NNS	I-NP	O	
+with	with	IN	B-PP	O	
+non-functional	non-functional	JJ	B-NP	O	
+tissue	tissue	NN	I-NP	O	
+FasL	FasL	NN	I-NP	B-protein	
+,	,	,	O	O	
+regardless	regardless	RB	B-ADVP	O	
+of	of	IN	B-PP	O	
+the	the	DT	B-NP	O	
+FasL	FasL	NN	I-NP	B-protein	
+status	status	NN	I-NP	O	
+of	of	IN	B-PP	O	
+the	the	DT	B-NP	O	
+bone	bone	NN	I-NP	B-cell_type	
+marrow-derived	marrow-derived	JJ	I-NP	I-cell_type	
+cells	cell	NNS	I-NP	I-cell_type	
+.	.	.	O	O	
+SEB	SEB	NN	B-NP	B-protein	
+induced	induce	VBD	B-VP	O	
+a	a	DT	B-NP	O	
+upregulation	upregulation	NN	I-NP	O	Mention 234	
+of	of	IN	B-PP	O	
+FasL	FasL	NN	B-NP	B-protein	
+.	.	.	O	O	
+This	This	DT	B-NP	O	Mention 235	
+effect	effect	NNS	I-NP	O	
+was	was	NNS	I-NP	O	
+resistant	resistant	JJ	B-ADJP	O	
+to	to	TO	B-PP	O	
+inhibition	inhibition	NN	B-NP	O	
+by	by	IN	B-PP	O	
+cyclosporin	cyclosporin	NN	B-NP	O	
+A	A	NN	I-NP	O	
+,	,	,	O	O	
+which	which	WDT	B-NP	O	
+also	also	RB	B-ADVP	O	
+failed	fail	VBD	B-VP	O	
+to	to	TO	I-VP	O	
+inhibit	inhibit	VB	I-VP	O	
+peripheral	peripheral	JJ	B-NP	O	
+deletion	deletion	NN	I-NP	O	
+.	.	.	O	O	
+In	In	IN	B-PP	O	
+SCID	SCID	NN	B-NP	O	
+animals	animal	NNS	I-NP	O	
+nonlymphoid	nonlymphoid	JJ	B-NP	O	
+tissues	tissue	NNS	I-NP	O	
+did	do	VBD	B-VP	O	
+not	not	RB	I-VP	O	
+express	express	VB	I-VP	O	
+FasL	FasL	NN	B-NP	B-protein	
+in	in	IN	B-PP	O	
+response	response	NN	B-NP	O	
+to	to	TO	B-PP	O	
+SEB	SEB	NN	B-NP	B-protein	
+unless	unless	IN	B-SBAR	O	
+transplanted	transplant	VBN	B-NP	O	
+lymphocytes	lymphocyte	NNS	I-NP	B-cell_type	
+were	be	VBD	B-VP	O	
+present	present	JJ	B-ADJP	O	
+.	.	.	O	O	
+Thus	Thus	RB	B-ADVP	O	
+,	,	,	O	O	
+some	some	DT	B-NP	O	
+immune	immune	JJ	I-NP	O	
+responses	response	NNS	I-NP	O	
+induce	induce	VBP	B-VP	O	
+FasL	FasL	NN	B-NP	B-protein	Mention 236	
+in	in	IN	B-PP	O	
+nonlymphoid	nonlymphoid	JJ	B-NP	O	
+tissues	tissue	NNS	I-NP	O	
+,	,	,	O	O	
+which	which	WDT	B-NP	O	Mention 237	
+in	in	IN	B-PP	O	
+turn	turn	NN	B-NP	O	
+kills	kill	NNS	I-NP	O	
+activated	activate	VBD	B-VP	O	
+lymphocytes	lymphocyte	NNS	B-NP	B-cell_type	
+,	,	,	O	O	
+leading	lead	VBG	B-VP	O	
+to	to	TO	B-PP	O	
+peripheral	peripheral	JJ	B-NP	O	
+T	T	NN	I-NP	O	
+cell	cell	NN	I-NP	O	
+deletion	deletion	NN	I-NP	O	
+.	.	.	O	O	

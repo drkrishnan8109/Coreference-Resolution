@@ -1,0 +1,319 @@
+5	FAP-1
+6	Fas-mediated apoptosis
+1	Fas
+3	its expression
+2	its
+5	its biological function
+4	its
+8	Fas-associated phosphatase-1 
+9	FAP-1
+10	which 
+11	Fas-mediated apoptosis
+6	endothelin ( ET ) isoforms
+13	endothelin 
+14	ET
+7	ET-1, ET-2 and ET-3
+8	their
+9	endothelin isoforms
+10	their
+15	125I-ET binding
+16	ETA receptor antagonist BQ123
+11	ETA receptor
+17	ETB receptor antagonist BQ788
+12	ETB receptor
+19	BQ 123
+20	BQ 788
+21	growth
+23	both antagonists
+24	ET-1 stimulated growth
+13	both receptor types
+40	fibroblasts
+41	carcinoma cells
+42	both populations of cells
+43	either
+26	growth of the fibroblast cell line
+27	BQ123 
+28	BQ788
+30	growth of the PE014 carcinoma cell line
+31	BQ123
+39	increases in release of catecholamines
+40	The increases
+41	nifedipine
+43	nifedipine-resistant increase
+44	SKF 96365
+29	polycyclic aromatic acetylene
+30	CYP1B1
+51	mouse embryo fibroblasts (MEF)
+8	1-ethynylpyrene
+9	1EP
+5	dimethylbenzanthracene 
+6	DMBA
+52	C3H10T1/2 MEFs
+1	1-(1-propynyl)pyrene 
+2	1PP
+3	CYP1A1 activity
+50	Hepa-1c1c7 mouse hepatoma cells (Hepa)
+21	each cell type
+7	DMBA metabolism
+10	each inhibitor
+14	CYP1B1 and CYP1A1 mRNA
+12	1-Ethylpyrene 
+13	EtP
+16	DMBA metabolism
+17	carbon monoxide
+18	CO
+20	CYP1B1 
+9	endothelin-A
+10	ET(A)
+17	p38 mitogen-activated kinase
+18	MAPK
+8	p38 MAPK phosphorylation
+11	ET(A) receptor antagonist
+12	BQ-123
+14	endothelin-B receptor antagonist
+15	BQ-788
+13	these reactions
+19	p38 MAPK inhibitor
+20	SB203580
+21	morphological changes associated with ET-1-induced myocardial cell hypertrophy
+17	phosphatidyl inositol
+18	PI
+2	contractions elicited by endothelin ( ET ) ligands in human bronchus
+12	endothelin 
+13	ET
+51	Nicardipine 
+52	L-type calcium channel
+1	Ca2+-free medium
+3	contractions
+30	those
+5	ryanodine 
+6	intracellular calcium mobilization
+8	nickel chloride 
+9	contractions induced by sarafotoxin S6c or ET-1
+11	KCI concentration-response curves
+14	ET(A)/ET(B) receptor antagonist
+25	SB 209670
+15	responses to sarafotoxin S6c and ET-1
+23	BQ-123
+24	ET(A) receptor antagonist
+19	The increase in PI turnover evoked by ET-1
+20	SB 209670
+21	BQ-123
+34	ET(B) receptor-mediated contraction in human bronchial smooth muscle
+25	the response
+37	binding in the caudate putamen
+38	The binding 
+39	raclopride
+41	raclopride 
+42	[11C]epidepride binding
+72	p27Kip1
+69	Cip/Kip
+70	cyclin-dependent kinase 
+73	It 
+74	kinase activity
+95	Inotropic effects
+26	positive inotropic response in the neonate
+27	negative response in the adult
+96	Both
+97	endothelin ETA receptor antagonist, BQ-123
+98	(Cyclo(D-a-aspartyl-L-prolyl-D-valyl-L-leucyl-D-tryptophyl))
+28	positive inotropic response in the neonate
+29	negative response in the adult
+100	Both
+101	angiotensin AT1 receptor antagonist, YM358
+102	2,7-diethyl-5-((2'-(1 H-tetrazol-5-yl)biphenyl-4-yl)methyl-5H-pyrazolo(1,5-b)(1,2,4)tria zole potassium salt monohydrate)
+30	30-kD subunit of mammalian cleavage and polyadenylation specificity factor
+32	its yeast homolog
+31	its
+1	Cleavage and polyadenylation specificity factor
+2	CPSF
+3	30-kD polypeptide
+4	this protein
+5	CPSF subunits
+33	The protein sequence
+8	30-kD protein
+7	RNA polymers
+12	essential S. cerevisiae gene
+13	YTH1
+10	purified polyadenylation factor I
+11	PF I
+16	Yth1p 
+19	PF I
+14	Fip1p
+21	PF I
+35	Na+/Ca2+ exchange in cardiac sarcolemmal vesicles
+36	Na+/Ca2+ exchange
+59	L-alpha-phosphatidylinositol 4,5-bisphosphate
+60	PIP2
+37	the exchanger activity in vesicles
+61	phosphoinositides
+62	PIP2
+63	the exchanger
+38	cardiac Na+/Ca2+ exchanger
+1	neural and muscle agrin
+2	muscle fibers
+39	their
+4	agrin
+5	neural agrin--induced AChR aggregates
+7	agrin
+8	laminin
+9	both proteins
+11	agrin
+12	laminin
+16	Neurabin
+15	synaptic protein
+17	p70 S6 kinase
+18	neuronal cytoskeleton
+21	p70 S6 kinase
+22	p70(S6k)
+20	mitogen-activated protein kinase
+23	It
+24	S6 protein of the 40s ribosomal subunit
+26	FK506 binding protein
+35	neurabin
+33	F-actin binding protein
+34	a neuronally enriched protein
+36	p70(S6k)
+38	neurabin
+39	p70 (S6k)
+44	p70(S6k)
+45	neurabin
+47	neurabin
+49	its PDZ domain
+48	its
+50	p70(S6k)
+52	its PDZ domain
+51	its
+50	neuronal-specific neurabin
+43	The fusion gene CBFB-MYH11
+44	This gene
+1	core binding factor beta
+2	CBFbeta
+3	smooth-muscle myosin heavy chain
+4	SMMHC
+45	chimeric protein CBFbeta-SMMHC
+46	function of CBF
+10	This dominant suppression
+2	Differentiating cells
+4	their patterns of gene expression
+3	their
+5	changes in the chromatin structure
+6	which
+11	prefrontal 
+12	PF
+7	ability of primates to form and rearrange arbitrary associations rapidly
+8	This ability
+13	glial cell line-derived neurotrophic factor
+14	GDNF
+15	Neurturin 
+16	NTN
+17	Persephin 
+18	PSP
+9	Artemin
+11	its expression pattern
+10	its
+12	it
+13	larval salivary gland
+14	these mutant glands
+19	head direction
+20	HD
+21	lateral mammillary nucleus
+22	LMN
+23	anterior thalamus
+24	ATN
+15	HD cells
+17	their directional firing properties
+16	their
+18	them
+25	Fas 
+26	CD95
+27	Fas ligand
+28	FasL
+29	staphylococcal enterotoxin B
+30	SEB
+19	upregulation of FasL
+20	This effect
+21	FasL
+22	which
+35	T cell antigen receptor
+36	TCR
+23	SLP-76 linker protein
+25	nck
+24	adaptor protein
+27	Vav
+26	guanine nucleotide exchange factor for Rho-family GTPases
+28	this tri-molecular complex
+30	topographically fixed glomeruli in the olfactory bulb
+31	this topographic map
+47	CREB 
+48	adenosine 3^, 5'-monophosphate response element binding protein
+32	rat nucleus accumbens
+33	a brain region that is important for addiction
+34	this region
+35	blockade of kappa opioid receptors
+36	which
+49	Wingless 
+50	Wg
+51	Decapentaplegic 
+52	Dpp
+53	receptor tyrosine kinases
+54	RTKs
+55	Drosophila epidermal growth factor receptor
+56	DER
+57	Heartless 
+58	Htl
+59	mitogen-associated protein kinase
+60	MAPK
+37	these RTKs
+39	ACTH/MSH peptides
+61	melanocortin-5 receptor
+62	MC5-R
+40	these peptides
+41	class III semaphorins
+42	Sema III, Sema E, and Sema IV
+43	these semaphorins
+44	sympathetic axons
+46	their responses
+45	their
+67	MAM 
+68	meprin, A5, mu
+69	long-term potentiation
+70	LTP
+71	long-term depression
+72	LTD
+47	RARbeta deficiency in mice
+48	It
+49	retinoid receptors
+50	they
+51	transgenic mice
+73	prion protein
+74	PrP
+52	transgenic mice
+53	These mice
+54	these mice
+75	PrP(Sc)
+76	pathogenic isoform of PrP
+56	Vnd
+55	a NK-2 homeodomain protein
+57	Vnd
+59	its action
+58	its
+77	Germ-line stem cells
+78	GSCs
+60	Drosophila piwi gene
+61	it
+63	nmd mouse mutation
+64	the mutated gene
+79	transcriptional activator and ATPase/DNA helicase
+80	Smbp2, Rip1, Gf1, or Catf1
+65	this gene
+81	chromosome 
+82	Chr
+66	chromatin boundary elements
+67	Boundary elements
+72	their
+71	examples
+69	polytene chromosome interband loci
+70	these sites
+83	candidate boundary elements
+84	cBEs

@@ -1,0 +1,134 @@
+nameNP("Fas_m3").
+nameNP("Fas-associated phosphatase-1 _m8").
+nameNP("FAP-1_m9").
+nameNP("endothelin ( ET ) isoforms_m12").
+nameNP("endothelin _m13").
+nameNP("ET-1, ET-2 and ET-3_m15").
+nameNP("endothelin isoforms_m17").
+nameNP("ETA receptor antagonist BQ123_m20").
+nameNP("ETA receptor_m21").
+nameNP("ETB receptor antagonist BQ788_m22").
+nameNP("ETB receptor_m23").
+nameNP("ET-1 stimulated growth_m28").
+nameNP("fibroblasts_m30").
+nameNP("carcinoma cells_m31").
+nameNP("growth of the fibroblast cell line_m34").
+nameNP("BQ123 _m35").
+nameNP("growth of the PE014 carcinoma cell line_m37").
+nameNP("mouse embryo fibroblasts (MEF)_m46").
+nameNP("C3H10T1/2 MEFs_m51").
+nameNP("CYP1A1 activity_m54").
+nameNP("Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55").
+nameNP("CYP1B1 and CYP1A1 mRNA_m59").
+nameNP("EtP_m61").
+nameNP("CYP1B1 _m65").
+nameNP("p38 mitogen-activated kinase_m68").
+nameNP("MAPK_m69").
+nameNP("p38 MAPK phosphorylation_m70").
+nameNP("BQ-123_m72").
+nameNP("endothelin-B receptor antagonist_m73").
+nameNP("BQ-788_m74").
+nameNP("p38 MAPK inhibitor_m76").
+nameNP("contractions elicited by endothelin ( ET ) ligands in human bronchus_m81").
+nameNP("endothelin _m82").
+nameNP("contractions induced by sarafotoxin S6c or ET-1_m92").
+nameNP("responses to sarafotoxin S6c and ET-1_m96").
+nameNP("The increase in PI turnover evoked by ET-1_m99").
+nameNP("p27Kip1_m109").
+nameNP("Cip/Kip_m110").
+nameNP("cyclin-dependent kinase _m111").
+nameNP("endothelin ETA receptor antagonist, BQ-123_m118").
+nameNP("CPSF_m129").
+nameNP("30-kD polypeptide_m130").
+nameNP("CPSF subunits_m132").
+nameNP("30-kD protein_m134").
+nameNP("RNA polymers_m135").
+nameNP("YTH1_m137").
+nameNP("PF I_m139").
+nameNP("Yth1p _m140").
+nameNP("PF I_m141").
+nameNP("PF I_m143").
+nameNP("PIP2_m147").
+nameNP("PIP2_m150").
+nameNP("cardiac Na+/Ca2+ exchanger_m152").
+nameNP("laminin_m159").
+nameNP("laminin_m162").
+nameNP("p70 S6 kinase_m167").
+nameNP("p70(S6k)_m168").
+nameNP("mitogen-activated protein kinase_m169").
+nameNP("S6 protein of the 40s ribosomal subunit_m171").
+nameNP("a neuronally enriched protein_m175").
+nameNP("p70(S6k)_m176").
+nameNP("neurabin_m177").
+nameNP("p70(S6k)_m179").
+nameNP("neurabin_m181").
+nameNP("its PDZ domain_m182").
+nameNP("p70(S6k)_m184").
+nameNP("its PDZ domain_m185").
+nameNP("neuronal-specific neurabin_m187").
+nameNP("The fusion gene CBFB-MYH11_m188").
+nameNP("CBFbeta_m191").
+nameNP("smooth-muscle myosin heavy chain_m192").
+nameNP("SMMHC_m193").
+nameNP("chimeric protein CBFbeta-SMMHC_m194").
+nameNP("function of CBF_m195").
+nameNP("Differentiating cells_m197").
+nameNP("changes in the chromatin structure_m200").
+nameNP("glial cell line-derived neurotrophic factor_m206").
+nameNP("Neurturin _m208").
+nameNP("NTN_m209").
+nameNP("PSP_m211").
+nameNP("Artemin_m212").
+nameNP("LMN_m221").
+nameNP("HD cells_m224").
+nameNP("Fas _m228").
+nameNP("CD95_m229").
+nameNP("Fas ligand_m230").
+nameNP("FasL_m231").
+nameNP("staphylococcal enterotoxin B_m232").
+nameNP("upregulation of FasL_m234").
+nameNP("FasL_m236").
+nameNP("T cell antigen receptor_m238").
+nameNP("TCR_m239").
+nameNP("SLP-76 linker protein_m240").
+nameNP("nck_m241").
+nameNP("adaptor protein_m242").
+nameNP("Vav_m243").
+nameNP("guanine nucleotide exchange factor for Rho-family GTPases_m244").
+nameNP("this tri-molecular complex_m245").
+nameNP("CREB _m248").
+nameNP("a brain region that is important for addiction_m251").
+nameNP("blockade of kappa opioid receptors_m253").
+nameNP("Dpp_m258").
+nameNP("receptor tyrosine kinases_m259").
+nameNP("RTKs_m260").
+nameNP("Drosophila epidermal growth factor receptor_m261").
+nameNP("Heartless _m263").
+nameNP("mitogen-associated protein kinase_m265").
+nameNP("MAPK_m266").
+nameNP("these RTKs_m267").
+nameNP("melanocortin-5 receptor_m269").
+nameNP("MC5-R_m270").
+nameNP("class III semaphorins_m272").
+nameNP("Sema III, Sema E, and Sema IV_m273").
+nameNP("meprin, A5, mu_m279").
+nameNP("LTP_m281").
+nameNP("RARbeta deficiency in mice_m284").
+nameNP("retinoid receptors_m286").
+nameNP("prion protein_m289").
+nameNP("PrP_m290").
+nameNP("PrP(Sc)_m294").
+nameNP("pathogenic isoform of PrP_m295").
+nameNP("Vnd_m296").
+nameNP("a NK-2 homeodomain protein_m297").
+nameNP("Vnd_m298").
+nameNP("Germ-line stem cells_m301").
+nameNP("GSCs_m302").
+nameNP("Drosophila piwi gene_m303").
+nameNP("the mutated gene_m306").
+nameNP("Smbp2, Rip1, Gf1, or Catf1_m308").
+nameNP("chromosome _m310").
+nameNP("Boundary elements_m313").
+nameNP("polytene chromosome interband loci_m316").
+nameNP("candidate boundary elements_m318").
+

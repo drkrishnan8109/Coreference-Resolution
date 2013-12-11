@@ -1,0 +1,4 @@
+member(A,B) :-
+   B=[A|C].
+member(A,B) :-
+   B=[C|D], member(A,D).

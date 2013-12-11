@@ -1,0 +1,29 @@
+definiteNP("its expression_m4").
+definiteNP("its biological function_m6").
+definiteNP("their_m16").
+definiteNP("their_m18").
+definiteNP("The increases_m40").
+definiteNP("these reactions_m75").
+definiteNP("the response_m103").
+definiteNP("The protein sequence_m133").
+definiteNP("the exchanger_m151").
+definiteNP("their_m155").
+definiteNP("its PDZ domain_m182").
+definiteNP("its PDZ domain_m185").
+definiteNP("The fusion gene CBFB-MYH11_m188").
+definiteNP("their_m199").
+definiteNP("its expression pattern_m213").
+definiteNP("their directional firing properties_m225").
+definiteNP("their_m226").
+definiteNP("these RTKs_m267").
+definiteNP("these peptides_m271").
+definiteNP("these semaphorins_m274").
+definiteNP("their responses_m276").
+definiteNP("their_m277").
+definiteNP("These mice_m292").
+definiteNP("these mice_m293").
+definiteNP("its action_m299").
+definiteNP("the mutated gene_m306").
+definiteNP("their_m314").
+definiteNP("these sites_m317").
+

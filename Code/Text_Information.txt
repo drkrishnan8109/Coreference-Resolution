@@ -1,0 +1,394 @@
+Mention no.	E/A	Entity No.	Antecedent No.	Text
+Mention 1	E	5	-	FAP-1_m1
+Mention 2	E	6	-	Fas-mediated apoptosis_m2
+Mention 3	E	1	-	Fas_m3
+Mention 4	E	3	-	its expression_m4
+Mention 5	E	2	-	its_m5
+Mention 5	A	2	1	its_m5
+Mention 6	E	5	-	its biological function_m6
+Mention 7	E	4	-	its_m7
+Mention 7	A	4	2	its_m7
+Mention 8	E	8	-	Fas-associated phosphatase-1 _m8
+Mention 9	E	9	-	FAP-1_m9
+Mention 10	E	10	-	which _m10
+Mention 10	A	10	9	which _m10
+Mention 11	E	11	-	Fas-mediated apoptosis_m11
+Mention 12	E	6	-	endothelin ( ET ) isoforms_m12
+Mention 13	E	13	-	endothelin _m13
+Mention 14	E	14	-	ET_m14
+Mention 15	E	7	-	ET-1, ET-2 and ET-3_m15
+Mention 16	E	8	-	their_m16
+Mention 16	A	8	6	their_m16
+Mention 17	E	9	-	endothelin isoforms_m17
+Mention 18	E	10	-	their_m18
+Mention 18	A	10	9	their_m18
+Mention 19	E	15	-	125I-ET binding_m19
+Mention 20	E	16	-	ETA receptor antagonist BQ123_m20
+Mention 21	E	11	-	ETA receptor_m21
+Mention 22	E	17	-	ETB receptor antagonist BQ788_m22
+Mention 23	E	12	-	ETB receptor_m23
+Mention 24	E	19	-	BQ 123_m24
+Mention 25	E	20	-	BQ 788_m25
+Mention 26	E	21	-	growth_m26
+Mention 27	E	23	-	both antagonists_m27
+Mention 27	A	23	19	both antagonists_m27
+Mention 27	A	23	20	both antagonists_m27
+Mention 28	E	24	-	ET-1 stimulated growth_m28
+Mention 29	E	13	-	both receptor types_m29
+Mention 29	A	13	11	both receptor types_m29
+Mention 29	A	13	12	both receptor types_m29
+Mention 30	E	40	-	fibroblasts_m30
+Mention 31	E	41	-	carcinoma cells_m31
+Mention 32	E	42	-	both populations of cells_m32
+Mention 32	A	42	40	both populations of cells_m32
+Mention 32	A	42	41	both populations of cells_m32
+Mention 33	E	43	-	either_m33
+Mention 33	A	43	40	either_m33
+Mention 33	A	43	41	either_m33
+Mention 34	E	26	-	growth of the fibroblast cell line_m34
+Mention 35	E	27	-	BQ123 _m35
+Mention 36	E	28	-	BQ788_m36
+Mention 37	E	30	-	growth of the PE014 carcinoma cell line_m37
+Mention 38	E	31	-	BQ123_m38
+Mention 39	E	39	-	increases in release of catecholamines_m39
+Mention 40	E	40	-	The increases_m40
+Mention 40	A	40	39	The increases_m40
+Mention 41	E	41	-	nifedipine_m41
+Mention 42	E	43	-	nifedipine-resistant increase_m42
+Mention 43	E	44	-	SKF 96365_m43
+Mention 44	E	29	-	polycyclic aromatic acetylene_m44
+Mention 45	E	30	-	CYP1B1_m45
+Mention 46	E	51	-	mouse embryo fibroblasts (MEF)_m46
+Mention 47	E	8	-	1-ethynylpyrene_m47
+Mention 48	E	9	-	1EP_m48
+Mention 49	E	5	-	dimethylbenzanthracene _m49
+Mention 50	E	6	-	DMBA_m50
+Mention 51	E	52	-	C3H10T1/2 MEFs_m51
+Mention 52	E	1	-	1-(1-propynyl)pyrene _m52
+Mention 53	E	2	-	1PP_m53
+Mention 54	E	3	-	CYP1A1 activity_m54
+Mention 55	E	50	-	Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55
+Mention 56	E	21	-	each cell type_m56
+Mention 56	A	21	52	each cell type_m56
+Mention 56	A	21	50	each cell type_m56
+Mention 57	E	7	-	DMBA metabolism_m57
+Mention 58	E	10	-	each inhibitor_m58
+Mention 58	A	10	8	each inhibitor_m58
+Mention 58	A	10	1	each inhibitor_m58
+Mention 59	E	14	-	CYP1B1 and CYP1A1 mRNA_m59
+Mention 60	E	12	-	1-Ethylpyrene _m60
+Mention 61	E	13	-	EtP_m61
+Mention 62	E	16	-	DMBA metabolism_m62
+Mention 63	E	17	-	carbon monoxide_m63
+Mention 64	E	18	-	CO_m64
+Mention 65	E	20	-	CYP1B1 _m65
+Mention 66	E	9	-	endothelin-A_m66
+Mention 67	E	10	-	ET(A)_m67
+Mention 68	E	17	-	p38 mitogen-activated kinase_m68
+Mention 69	E	18	-	MAPK_m69
+Mention 70	E	8	-	p38 MAPK phosphorylation_m70
+Mention 71	E	11	-	ET(A) receptor antagonist_m71
+Mention 72	E	12	-	BQ-123_m72
+Mention 73	E	14	-	endothelin-B receptor antagonist_m73
+Mention 74	E	15	-	BQ-788_m74
+Mention 75	E	13	-	these reactions_m75
+Mention 75	A	13	8	these reactions_m75
+Mention 76	E	19	-	p38 MAPK inhibitor_m76
+Mention 77	E	20	-	SB203580_m77
+Mention 78	E	21	-	morphological changes associated with ET-1-induced myocardial cell hypertrophy_m78
+Mention 79	E	17	-	phosphatidyl inositol_m79
+Mention 80	E	18	-	PI_m80
+Mention 81	E	2	-	contractions elicited by endothelin ( ET ) ligands in human bronchus_m81
+Mention 82	E	12	-	endothelin _m82
+Mention 83	E	13	-	ET_m83
+Mention 84	E	51	-	Nicardipine _m84
+Mention 85	E	52	-	L-type calcium channel_m85
+Mention 86	E	1	-	Ca2+-free medium_m86
+Mention 87	E	3	-	contractions_m87
+Mention 87	A	3	2	contractions_m87
+Mention 88	E	30	-	those_m88
+Mention 88	A	30	3	those_m88
+Mention 89	E	5	-	ryanodine _m89
+Mention 90	E	6	-	intracellular calcium mobilization_m90
+Mention 91	E	8	-	nickel chloride _m91
+Mention 92	E	9	-	contractions induced by sarafotoxin S6c or ET-1_m92
+Mention 93	E	11	-	KCI concentration-response curves_m93
+Mention 94	E	14	-	ET(A)/ET(B) receptor antagonist_m94
+Mention 95	E	25	-	SB 209670_m95
+Mention 96	E	15	-	responses to sarafotoxin S6c and ET-1_m96
+Mention 97	E	23	-	BQ-123_m97
+Mention 98	E	24	-	ET(A) receptor antagonist_m98
+Mention 99	E	19	-	The increase in PI turnover evoked by ET-1_m99
+Mention 100	E	20	-	SB 209670_m100
+Mention 101	E	21	-	BQ-123_m101
+Mention 102	E	34	-	ET(B) receptor-mediated contraction in human bronchial smooth muscle_m102
+Mention 103	E	25	-	the response_m103
+Mention 103	A	25	34	the response_m103
+Mention 104	E	37	-	binding in the caudate putamen_m104
+Mention 105	E	38	-	The binding _m105
+Mention 105	A	38	37	The binding _m105
+Mention 106	E	39	-	raclopride_m106
+Mention 107	E	41	-	raclopride _m107
+Mention 108	E	42	-	[11C]epidepride binding_m108
+Mention 109	E	72	-	p27Kip1_m109
+Mention 110	E	69	-	Cip/Kip_m110
+Mention 111	E	70	-	cyclin-dependent kinase _m111
+Mention 112	E	73	-	It _m112
+Mention 112	A	73	72	It _m112
+Mention 113	E	74	-	kinase activity_m113
+Mention 114	E	95	-	Inotropic effects_m114
+Mention 115	E	26	-	positive inotropic response in the neonate_m115
+Mention 116	E	27	-	negative response in the adult_m116
+Mention 117	E	96	-	Both_m117
+Mention 117	A	96	26	Both_m117
+Mention 117	A	96	27	Both_m117
+Mention 118	E	97	-	endothelin ETA receptor antagonist, BQ-123_m118
+Mention 119	E	98	-	(Cyclo(D-a-aspartyl-L-prolyl-D-valyl-L-leucyl-D-tryptophyl))_m119
+Mention 120	E	28	-	positive inotropic response in the neonate_m120
+Mention 121	E	29	-	negative response in the adult_m121
+Mention 122	E	100	-	Both_m122
+Mention 122	A	100	28	Both_m122
+Mention 122	A	100	29	Both_m122
+Mention 123	E	101	-	angiotensin AT1 receptor antagonist, YM358_m123
+Mention 124	E	102	-	2,7-diethyl-5-((2'-(1 H-tetrazol-5-yl)biphenyl-4-yl)methyl-5H-pyrazolo(1,5-b)(1,2,4)tria zole potassium salt monohydrate)_m124
+Mention 125	E	30	-	30-kD subunit of mammalian cleavage and polyadenylation specificity factor_m125
+Mention 126	E	32	-	its yeast homolog_m126
+Mention 127	E	31	-	its_m127
+Mention 127	A	31	30	its_m127
+Mention 128	E	1	-	Cleavage and polyadenylation specificity factor_m128
+Mention 129	E	2	-	CPSF_m129
+Mention 130	E	3	-	30-kD polypeptide_m130
+Mention 131	E	4	-	this protein_m131
+Mention 131	A	4	3	this protein_m131
+Mention 132	E	5	-	CPSF subunits_m132
+Mention 133	E	33	-	The protein sequence_m133
+Mention 133	A	33	4	The protein sequence_m133
+Mention 134	E	8	-	30-kD protein_m134
+Mention 135	E	7	-	RNA polymers_m135
+Mention 136	E	12	-	essential S. cerevisiae gene_m136
+Mention 137	E	13	-	YTH1_m137
+Mention 138	E	10	-	purified polyadenylation factor I_m138
+Mention 139	E	11	-	PF I_m139
+Mention 140	E	16	-	Yth1p _m140
+Mention 141	E	19	-	PF I_m141
+Mention 142	E	14	-	Fip1p_m142
+Mention 143	E	21	-	PF I_m143
+Mention 144	E	35	-	Na+/Ca2+ exchange in cardiac sarcolemmal vesicles_m144
+Mention 145	E	36	-	Na+/Ca2+ exchange_m145
+Mention 145	A	36	35	Na+/Ca2+ exchange_m145
+Mention 146	E	59	-	L-alpha-phosphatidylinositol 4,5-bisphosphate_m146
+Mention 147	E	60	-	PIP2_m147
+Mention 148	E	37	-	the exchanger activity in vesicles_m148
+Mention 148	A	37	35	the exchanger activity in vesicles_m148
+Mention 149	E	61	-	phosphoinositides_m149
+Mention 150	E	62	-	PIP2_m150
+Mention 151	E	63	-	the exchanger_m151
+Mention 151	A	63	37	the exchanger_m151
+Mention 152	E	38	-	cardiac Na+/Ca2+ exchanger_m152
+Mention 152	A	38	63	cardiac Na+/Ca2+ exchanger_m152
+Mention 153	E	1	-	neural and muscle agrin_m153
+Mention 154	E	2	-	muscle fibers_m154
+Mention 155	E	39	-	their_m155
+Mention 155	A	39	2	their_m155
+Mention 156	E	4	-	agrin_m156
+Mention 157	E	5	-	neural agrin--induced AChR aggregates_m157
+Mention 158	E	7	-	agrin_m158
+Mention 159	E	8	-	laminin_m159
+Mention 160	E	9	-	both proteins_m160
+Mention 160	A	9	7	both proteins_m160
+Mention 160	A	9	8	both proteins_m160
+Mention 161	E	11	-	agrin_m161
+Mention 162	E	12	-	laminin_m162
+Mention 163	E	16	-	Neurabin_m163
+Mention 164	E	15	-	synaptic protein_m164
+Mention 165	E	17	-	p70 S6 kinase_m165
+Mention 166	E	18	-	neuronal cytoskeleton_m166
+Mention 167	E	21	-	p70 S6 kinase_m167
+Mention 168	E	22	-	p70(S6k)_m168
+Mention 169	E	20	-	mitogen-activated protein kinase_m169
+Mention 170	E	23	-	It_m170
+Mention 170	A	23	21	It_m170
+Mention 171	E	24	-	S6 protein of the 40s ribosomal subunit_m171
+Mention 172	E	26	-	FK506 binding protein_m172
+Mention 173	E	35	-	neurabin_m173
+Mention 174	E	33	-	F-actin binding protein_m174
+Mention 175	E	34	-	a neuronally enriched protein_m175
+Mention 176	E	36	-	p70(S6k)_m176
+Mention 177	E	38	-	neurabin_m177
+Mention 178	E	39	-	p70 (S6k)_m178
+Mention 179	E	44	-	p70(S6k)_m179
+Mention 180	E	45	-	neurabin_m180
+Mention 181	E	47	-	neurabin_m181
+Mention 182	E	49	-	its PDZ domain_m182
+Mention 183	E	48	-	its_m183
+Mention 183	A	48	47	its_m183
+Mention 184	E	50	-	p70(S6k)_m184
+Mention 185	E	52	-	its PDZ domain_m185
+Mention 186	E	51	-	its_m186
+Mention 186	A	51	50	its_m186
+Mention 187	E	50	-	neuronal-specific neurabin_m187
+Mention 188	E	43	-	The fusion gene CBFB-MYH11_m188
+Mention 189	E	44	-	This gene_m189
+Mention 189	A	44	43	This gene_m189
+Mention 190	E	1	-	core binding factor beta_m190
+Mention 191	E	2	-	CBFbeta_m191
+Mention 192	E	3	-	smooth-muscle myosin heavy chain_m192
+Mention 193	E	4	-	SMMHC_m193
+Mention 194	E	45	-	chimeric protein CBFbeta-SMMHC_m194
+Mention 195	E	46	-	function of CBF_m195
+Mention 196	E	10	-	This dominant suppression_m196
+Mention 196	A	10	47	This dominant suppression_m196
+Mention 197	E	2	-	Differentiating cells_m197
+Mention 198	E	4	-	their patterns of gene expression_m198
+Mention 199	E	3	-	their_m199
+Mention 199	A	3	2	their_m199
+Mention 200	E	5	-	changes in the chromatin structure_m200
+Mention 201	E	6	-	which_m201
+Mention 201	A	6	5	which_m201
+Mention 202	E	11	-	prefrontal _m202
+Mention 203	E	12	-	PF_m203
+Mention 204	E	7	-	ability of primates to form and rearrange arbitrary associations rapidly_m204
+Mention 205	E	8	-	This ability_m205
+Mention 205	A	8	7	This ability_m205
+Mention 206	E	13	-	glial cell line-derived neurotrophic factor_m206
+Mention 207	E	14	-	GDNF_m207
+Mention 208	E	15	-	Neurturin _m208
+Mention 209	E	16	-	NTN_m209
+Mention 210	E	17	-	Persephin _m210
+Mention 211	E	18	-	PSP_m211
+Mention 212	E	9	-	Artemin_m212
+Mention 213	E	11	-	its expression pattern_m213
+Mention 214	E	10	-	its_m214
+Mention 214	A	10	9	its_m214
+Mention 215	E	12	-	it_m215
+Mention 215	A	12	9	it_m215
+Mention 216	E	13	-	larval salivary gland_m216
+Mention 217	E	14	-	these mutant glands_m217
+Mention 217	A	14	13	these mutant glands_m217
+Mention 218	E	19	-	head direction_m218
+Mention 219	E	20	-	HD_m219
+Mention 220	E	21	-	lateral mammillary nucleus_m220
+Mention 221	E	22	-	LMN_m221
+Mention 222	E	23	-	anterior thalamus_m222
+Mention 223	E	24	-	ATN_m223
+Mention 224	E	15	-	HD cells_m224
+Mention 225	E	17	-	their directional firing properties_m225
+Mention 226	E	16	-	their_m226
+Mention 226	A	16	15	their_m226
+Mention 227	E	18	-	them_m227
+Mention 227	A	18	17	them_m227
+Mention 228	E	25	-	Fas _m228
+Mention 229	E	26	-	CD95_m229
+Mention 230	E	27	-	Fas ligand_m230
+Mention 231	E	28	-	FasL_m231
+Mention 232	E	29	-	staphylococcal enterotoxin B_m232
+Mention 233	E	30	-	SEB_m233
+Mention 234	E	19	-	upregulation of FasL_m234
+Mention 235	E	20	-	This effect_m235
+Mention 235	A	20	19	This effect_m235
+Mention 236	E	21	-	FasL_m236
+Mention 237	E	22	-	which_m237
+Mention 237	A	22	21	which_m237
+Mention 238	E	35	-	T cell antigen receptor_m238
+Mention 239	E	36	-	TCR_m239
+Mention 240	E	23	-	SLP-76 linker protein_m240
+Mention 241	E	25	-	nck_m241
+Mention 242	E	24	-	adaptor protein_m242
+Mention 243	E	27	-	Vav_m243
+Mention 244	E	26	-	guanine nucleotide exchange factor for Rho-family GTPases_m244
+Mention 245	E	28	-	this tri-molecular complex_m245
+Mention 245	A	28	23	this tri-molecular complex_m245
+Mention 245	A	28	25	this tri-molecular complex_m245
+Mention 245	A	28	27	this tri-molecular complex_m245
+Mention 246	E	30	-	topographically fixed glomeruli in the olfactory bulb_m246
+Mention 247	E	31	-	this topographic map_m247
+Mention 247	A	31	30	this topographic map_m247
+Mention 248	E	47	-	CREB _m248
+Mention 249	E	48	-	adenosine 3^, 5'-monophosphate response element binding protein_m249
+Mention 250	E	32	-	rat nucleus accumbens_m250
+Mention 251	E	33	-	a brain region that is important for addiction_m251
+Mention 252	E	34	-	this region_m252
+Mention 252	A	34	33	this region_m252
+Mention 253	E	35	-	blockade of kappa opioid receptors_m253
+Mention 254	E	36	-	which_m254
+Mention 254	A	36	35	which_m254
+Mention 255	E	49	-	Wingless _m255
+Mention 256	E	50	-	Wg_m256
+Mention 257	E	51	-	Decapentaplegic _m257
+Mention 258	E	52	-	Dpp_m258
+Mention 259	E	53	-	receptor tyrosine kinases_m259
+Mention 260	E	54	-	RTKs_m260
+Mention 261	E	55	-	Drosophila epidermal growth factor receptor_m261
+Mention 262	E	56	-	DER_m262
+Mention 263	E	57	-	Heartless _m263
+Mention 264	E	58	-	Htl_m264
+Mention 265	E	59	-	mitogen-associated protein kinase_m265
+Mention 266	E	60	-	MAPK_m266
+Mention 267	E	37	-	these RTKs_m267
+Mention 267	A	37	54	these RTKs_m267
+Mention 268	E	39	-	ACTH/MSH peptides_m268
+Mention 269	E	61	-	melanocortin-5 receptor_m269
+Mention 270	E	62	-	MC5-R_m270
+Mention 271	E	40	-	these peptides_m271
+Mention 271	A	40	39	these peptides_m271
+Mention 272	E	41	-	class III semaphorins_m272
+Mention 273	E	42	-	Sema III, Sema E, and Sema IV_m273
+Mention 274	E	43	-	these semaphorins_m274
+Mention 274	A	43	42	these semaphorins_m274
+Mention 275	E	44	-	sympathetic axons_m275
+Mention 276	E	46	-	their responses_m276
+Mention 277	E	45	-	their_m277
+Mention 277	A	45	44	their_m277
+Mention 278	E	67	-	MAM _m278
+Mention 279	E	68	-	meprin, A5, mu_m279
+Mention 280	E	69	-	long-term potentiation_m280
+Mention 281	E	70	-	LTP_m281
+Mention 282	E	71	-	long-term depression_m282
+Mention 283	E	72	-	LTD_m283
+Mention 284	E	47	-	RARbeta deficiency in mice_m284
+Mention 285	E	48	-	It_m285
+Mention 285	A	48	47	It_m285
+Mention 286	E	49	-	retinoid receptors_m286
+Mention 287	E	50	-	they_m287
+Mention 287	A	50	49	they_m287
+Mention 288	E	51	-	transgenic mice_m288
+Mention 289	E	73	-	prion protein_m289
+Mention 290	E	74	-	PrP_m290
+Mention 291	E	52	-	transgenic mice_m291
+Mention 292	E	53	-	These mice_m292
+Mention 292	A	53	52	These mice_m292
+Mention 293	E	54	-	these mice_m293
+Mention 293	A	54	53	these mice_m293
+Mention 294	E	75	-	PrP(Sc)_m294
+Mention 295	E	76	-	pathogenic isoform of PrP_m295
+Mention 296	E	56	-	Vnd_m296
+Mention 297	E	55	-	a NK-2 homeodomain protein_m297
+Mention 298	E	57	-	Vnd_m298
+Mention 299	E	59	-	its action_m299
+Mention 300	E	58	-	its_m300
+Mention 301	E	77	-	Germ-line stem cells_m301
+Mention 302	E	78	-	GSCs_m302
+Mention 303	E	60	-	Drosophila piwi gene_m303
+Mention 304	E	61	-	it_m304
+Mention 304	A	61	60	it_m304
+Mention 305	E	63	-	nmd mouse mutation_m305
+Mention 306	E	64	-	the mutated gene_m306
+Mention 306	A	64	63	the mutated gene_m306
+Mention 307	E	79	-	transcriptional activator and ATPase/DNA helicase_m307
+Mention 308	E	80	-	Smbp2, Rip1, Gf1, or Catf1_m308
+Mention 309	E	65	-	this gene_m309
+Mention 309	A	65	64	this gene_m309
+Mention 310	E	81	-	chromosome _m310
+Mention 311	E	82	-	Chr_m311
+Mention 312	E	66	-	chromatin boundary elements_m312
+Mention 313	E	67	-	Boundary elements_m313
+Mention 313	A	67	66	Boundary elements_m313
+Mention 314	E	72	-	their_m314
+Mention 314	A	72	71	their_m314
+Mention 315	E	71	-	examples_m315
+Mention 315	A	71	67	examples_m315
+Mention 316	E	69	-	polytene chromosome interband loci_m316
+Mention 317	E	70	-	these sites_m317
+Mention 317	A	70	69	these sites_m317
+Mention 318	E	83	-	candidate boundary elements_m318
+Mention 319	E	84	-	cBEs_m319

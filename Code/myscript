@@ -1,0 +1,3 @@
+#!/bin/bash
+python Coreference.py
+cat Rules.txt Background.txt Noun_Phrases.txt DefiniteNP.txt IndefiniteNP.txt PronounNP.txt Missed.txt String_Match.txt> coreference.b  

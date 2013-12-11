@@ -1,0 +1,8 @@
+pronounNP("those_m88").
+pronounNP("It_m170").
+pronounNP("it_m215").
+pronounNP("them_m227").
+pronounNP("It_m285").
+pronounNP("they_m287").
+pronounNP("it_m304").
+

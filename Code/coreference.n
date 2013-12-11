@@ -1,0 +1,430 @@
+corefers("FAP-1_m1","Fas-mediated apoptosis_m2").
+corefers("FAP-1_m1","Fas_m3").
+corefers("FAP-1_m1","its expression_m4").
+corefers("FAP-1_m1","its_m5").
+corefers("FAP-1_m1","its biological function_m6").
+corefers("FAP-1_m1","its_m7").
+corefers("Fas-mediated apoptosis_m2","Fas_m3").
+corefers("Fas-mediated apoptosis_m2","its expression_m4").
+corefers("Fas-mediated apoptosis_m2","its_m5").
+corefers("Fas-mediated apoptosis_m2","its biological function_m6").
+corefers("Fas-mediated apoptosis_m2","its_m7").
+corefers("Fas_m3","its expression_m4").
+corefers("Fas_m3","its biological function_m6").
+corefers("Fas_m3","its_m7").
+corefers("its expression_m4","its_m5").
+corefers("its expression_m4","its biological function_m6").
+corefers("its expression_m4","its_m7").
+corefers("its_m5","its biological function_m6").
+corefers("its_m5","its_m7").
+corefers("its biological function_m6","its_m7").
+corefers("Fas-associated phosphatase-1 _m8","FAP-1_m9").
+corefers("Fas-associated phosphatase-1 _m8","which _m10").
+corefers("Fas-associated phosphatase-1 _m8","Fas-mediated apoptosis_m11").
+corefers("FAP-1_m9","which _m10").
+corefers("FAP-1_m9","Fas-mediated apoptosis_m11").
+corefers("which _m10","Fas-mediated apoptosis_m11").
+corefers("endothelin ( ET ) isoforms_m12","endothelin _m13").
+corefers("endothelin ( ET ) isoforms_m12","ET_m14").
+corefers("endothelin ( ET ) isoforms_m12","ET-1, ET-2 and ET-3_m15").
+corefers("endothelin ( ET ) isoforms_m12","their_m16").
+corefers("endothelin _m13","ET_m14").
+corefers("endothelin _m13","ET-1, ET-2 and ET-3_m15").
+corefers("endothelin _m13","their_m16").
+corefers("ET_m14","ET-1, ET-2 and ET-3_m15").
+corefers("ET_m14","their_m16").
+corefers("ET-1, ET-2 and ET-3_m15","their_m16").
+corefers("endothelin isoforms_m17","their_m18").
+corefers("125I-ET binding_m19","ETA receptor antagonist BQ123_m20").
+corefers("125I-ET binding_m19","ETA receptor_m21").
+corefers("125I-ET binding_m19","ETB receptor antagonist BQ788_m22").
+corefers("125I-ET binding_m19","ETB receptor_m23").
+corefers("ETA receptor antagonist BQ123_m20","ETA receptor_m21").
+corefers("ETA receptor antagonist BQ123_m20","ETB receptor antagonist BQ788_m22").
+corefers("ETA receptor antagonist BQ123_m20","ETB receptor_m23").
+corefers("ETA receptor_m21","ETB receptor antagonist BQ788_m22").
+corefers("ETA receptor_m21","ETB receptor_m23").
+corefers("ETB receptor antagonist BQ788_m22","ETB receptor_m23").
+corefers("BQ 123_m24","BQ 788_m25").
+corefers("BQ 123_m24","growth_m26").
+corefers("BQ 788_m25","growth_m26").
+corefers("both antagonists_m27","ET-1 stimulated growth_m28").
+corefers("both antagonists_m27","both receptor types_m29").
+corefers("ET-1 stimulated growth_m28","both receptor types_m29").
+corefers("fibroblasts_m30","carcinoma cells_m31").
+corefers("fibroblasts_m30","both populations of cells_m32").
+corefers("fibroblasts_m30","either_m33").
+corefers("carcinoma cells_m31","both populations of cells_m32").
+corefers("carcinoma cells_m31","either_m33").
+corefers("both populations of cells_m32","either_m33").
+corefers("growth of the fibroblast cell line_m34","BQ123 _m35").
+corefers("growth of the fibroblast cell line_m34","BQ788_m36").
+corefers("growth of the fibroblast cell line_m34","growth of the PE014 carcinoma cell line_m37").
+corefers("growth of the fibroblast cell line_m34","BQ123_m38").
+corefers("BQ123 _m35","BQ788_m36").
+corefers("BQ123 _m35","growth of the PE014 carcinoma cell line_m37").
+corefers("BQ123 _m35","BQ123_m38").
+corefers("BQ788_m36","growth of the PE014 carcinoma cell line_m37").
+corefers("BQ788_m36","BQ123_m38").
+corefers("growth of the PE014 carcinoma cell line_m37","BQ123_m38").
+corefers("The increases_m40","nifedipine_m41").
+corefers("nifedipine-resistant increase_m42","SKF 96365_m43").
+corefers("polycyclic aromatic acetylene_m44","CYP1B1_m45").
+corefers("polycyclic aromatic acetylene_m44","mouse embryo fibroblasts (MEF)_m46").
+corefers("CYP1B1_m45","mouse embryo fibroblasts (MEF)_m46").
+corefers("1-ethynylpyrene_m47","1EP_m48").
+corefers("1-ethynylpyrene_m47","dimethylbenzanthracene _m49").
+corefers("1-ethynylpyrene_m47","DMBA_m50").
+corefers("1-ethynylpyrene_m47","C3H10T1/2 MEFs_m51").
+corefers("1-ethynylpyrene_m47","1-(1-propynyl)pyrene _m52").
+corefers("1-ethynylpyrene_m47","1PP_m53").
+corefers("1-ethynylpyrene_m47","CYP1A1 activity_m54").
+corefers("1-ethynylpyrene_m47","Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55").
+corefers("1EP_m48","dimethylbenzanthracene _m49").
+corefers("1EP_m48","DMBA_m50").
+corefers("1EP_m48","C3H10T1/2 MEFs_m51").
+corefers("1EP_m48","1-(1-propynyl)pyrene _m52").
+corefers("1EP_m48","1PP_m53").
+corefers("1EP_m48","CYP1A1 activity_m54").
+corefers("1EP_m48","Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55").
+corefers("dimethylbenzanthracene _m49","DMBA_m50").
+corefers("dimethylbenzanthracene _m49","C3H10T1/2 MEFs_m51").
+corefers("dimethylbenzanthracene _m49","1-(1-propynyl)pyrene _m52").
+corefers("dimethylbenzanthracene _m49","1PP_m53").
+corefers("dimethylbenzanthracene _m49","CYP1A1 activity_m54").
+corefers("dimethylbenzanthracene _m49","Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55").
+corefers("DMBA_m50","C3H10T1/2 MEFs_m51").
+corefers("DMBA_m50","1-(1-propynyl)pyrene _m52").
+corefers("DMBA_m50","1PP_m53").
+corefers("DMBA_m50","CYP1A1 activity_m54").
+corefers("DMBA_m50","Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55").
+corefers("C3H10T1/2 MEFs_m51","1-(1-propynyl)pyrene _m52").
+corefers("C3H10T1/2 MEFs_m51","1PP_m53").
+corefers("C3H10T1/2 MEFs_m51","CYP1A1 activity_m54").
+corefers("C3H10T1/2 MEFs_m51","Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55").
+corefers("1-(1-propynyl)pyrene _m52","1PP_m53").
+corefers("1-(1-propynyl)pyrene _m52","CYP1A1 activity_m54").
+corefers("1-(1-propynyl)pyrene _m52","Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55").
+corefers("1PP_m53","CYP1A1 activity_m54").
+corefers("1PP_m53","Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55").
+corefers("CYP1A1 activity_m54","Hepa-1c1c7 mouse hepatoma cells (Hepa)_m55").
+corefers("each cell type_m56","DMBA metabolism_m57").
+corefers("each cell type_m56","each inhibitor_m58").
+corefers("DMBA metabolism_m57","each inhibitor_m58").
+corefers("1-Ethylpyrene _m60","EtP_m61").
+corefers("DMBA metabolism_m62","carbon monoxide_m63").
+corefers("DMBA metabolism_m62","CO_m64").
+corefers("carbon monoxide_m63","CO_m64").
+corefers("endothelin-A_m66","ET(A)_m67").
+corefers("p38 mitogen-activated kinase_m68","MAPK_m69").
+corefers("ET(A) receptor antagonist_m71","BQ-123_m72").
+corefers("ET(A) receptor antagonist_m71","endothelin-B receptor antagonist_m73").
+corefers("ET(A) receptor antagonist_m71","BQ-788_m74").
+corefers("ET(A) receptor antagonist_m71","these reactions_m75").
+corefers("BQ-123_m72","endothelin-B receptor antagonist_m73").
+corefers("BQ-123_m72","BQ-788_m74").
+corefers("BQ-123_m72","these reactions_m75").
+corefers("endothelin-B receptor antagonist_m73","BQ-788_m74").
+corefers("endothelin-B receptor antagonist_m73","these reactions_m75").
+corefers("BQ-788_m74","these reactions_m75").
+corefers("p38 MAPK inhibitor_m76","SB203580_m77").
+corefers("p38 MAPK inhibitor_m76","morphological changes associated with ET-1-induced myocardial cell hypertrophy_m78").
+corefers("SB203580_m77","morphological changes associated with ET-1-induced myocardial cell hypertrophy_m78").
+corefers("phosphatidyl inositol_m79","PI_m80").
+corefers("phosphatidyl inositol_m79","contractions elicited by endothelin ( ET ) ligands in human bronchus_m81").
+corefers("phosphatidyl inositol_m79","endothelin _m82").
+corefers("phosphatidyl inositol_m79","ET_m83").
+corefers("PI_m80","contractions elicited by endothelin ( ET ) ligands in human bronchus_m81").
+corefers("PI_m80","endothelin _m82").
+corefers("PI_m80","ET_m83").
+corefers("contractions elicited by endothelin ( ET ) ligands in human bronchus_m81","endothelin _m82").
+corefers("contractions elicited by endothelin ( ET ) ligands in human bronchus_m81","ET_m83").
+corefers("endothelin _m82","ET_m83").
+corefers("Nicardipine _m84","L-type calcium channel_m85").
+corefers("Nicardipine _m84","Ca2+-free medium_m86").
+corefers("Nicardipine _m84","contractions_m87").
+corefers("Nicardipine _m84","those_m88").
+corefers("L-type calcium channel_m85","Ca2+-free medium_m86").
+corefers("L-type calcium channel_m85","contractions_m87").
+corefers("L-type calcium channel_m85","those_m88").
+corefers("Ca2+-free medium_m86","contractions_m87").
+corefers("Ca2+-free medium_m86","those_m88").
+corefers("contractions_m87","those_m88").
+corefers("ryanodine _m89","intracellular calcium mobilization_m90").
+corefers("nickel chloride _m91","contractions induced by sarafotoxin S6c or ET-1_m92").
+corefers("nickel chloride _m91","KCI concentration-response curves_m93").
+corefers("contractions induced by sarafotoxin S6c or ET-1_m92","KCI concentration-response curves_m93").
+corefers("ET(A)/ET(B) receptor antagonist_m94","SB 209670_m95").
+corefers("ET(A)/ET(B) receptor antagonist_m94","responses to sarafotoxin S6c and ET-1_m96").
+corefers("ET(A)/ET(B) receptor antagonist_m94","BQ-123_m97").
+corefers("ET(A)/ET(B) receptor antagonist_m94","ET(A) receptor antagonist_m98").
+corefers("SB 209670_m95","responses to sarafotoxin S6c and ET-1_m96").
+corefers("SB 209670_m95","BQ-123_m97").
+corefers("SB 209670_m95","ET(A) receptor antagonist_m98").
+corefers("responses to sarafotoxin S6c and ET-1_m96","BQ-123_m97").
+corefers("responses to sarafotoxin S6c and ET-1_m96","ET(A) receptor antagonist_m98").
+corefers("BQ-123_m97","ET(A) receptor antagonist_m98").
+corefers("The increase in PI turnover evoked by ET-1_m99","SB 209670_m100").
+corefers("The increase in PI turnover evoked by ET-1_m99","BQ-123_m101").
+corefers("SB 209670_m100","BQ-123_m101").
+corefers("ET(B) receptor-mediated contraction in human bronchial smooth muscle_m102","the response_m103").
+corefers("The binding _m105","raclopride_m106").
+corefers("raclopride _m107","[11C]epidepride binding_m108").
+corefers("p27Kip1_m109","Cip/Kip_m110").
+corefers("p27Kip1_m109","cyclin-dependent kinase _m111").
+corefers("Cip/Kip_m110","cyclin-dependent kinase _m111").
+corefers("It _m112","kinase activity_m113").
+corefers("positive inotropic response in the neonate_m115","negative response in the adult_m116").
+corefers("Both_m117","endothelin ETA receptor antagonist, BQ-123_m118").
+corefers("Both_m117","(Cyclo(D-a-aspartyl-L-prolyl-D-valyl-L-leucyl-D-tryptophyl))_m119").
+corefers("endothelin ETA receptor antagonist, BQ-123_m118","(Cyclo(D-a-aspartyl-L-prolyl-D-valyl-L-leucyl-D-tryptophyl))_m119").
+corefers("positive inotropic response in the neonate_m120","negative response in the adult_m121").
+corefers("Both_m122","angiotensin AT1 receptor antagonist, YM358_m123").
+corefers("Both_m122","2,7-diethyl-5-((2'-(1 H-tetrazol-5-yl)biphenyl-4-yl)methyl-5H-pyrazolo(1,5-b)(1,2,4)tria zole potassium salt monohydrate)_m124").
+corefers("angiotensin AT1 receptor antagonist, YM358_m123","2,7-diethyl-5-((2'-(1 H-tetrazol-5-yl)biphenyl-4-yl)methyl-5H-pyrazolo(1,5-b)(1,2,4)tria zole potassium salt monohydrate)_m124").
+corefers("30-kD subunit of mammalian cleavage and polyadenylation specificity factor_m125","its yeast homolog_m126").
+corefers("30-kD subunit of mammalian cleavage and polyadenylation specificity factor_m125","its_m127").
+corefers("30-kD subunit of mammalian cleavage and polyadenylation specificity factor_m125","Cleavage and polyadenylation specificity factor_m128").
+corefers("30-kD subunit of mammalian cleavage and polyadenylation specificity factor_m125","CPSF_m129").
+corefers("its yeast homolog_m126","its_m127").
+corefers("its yeast homolog_m126","Cleavage and polyadenylation specificity factor_m128").
+corefers("its yeast homolog_m126","CPSF_m129").
+corefers("its_m127","Cleavage and polyadenylation specificity factor_m128").
+corefers("its_m127","CPSF_m129").
+corefers("Cleavage and polyadenylation specificity factor_m128","CPSF_m129").
+corefers("this protein_m131","CPSF subunits_m132").
+corefers("30-kD protein_m134","RNA polymers_m135").
+corefers("purified polyadenylation factor I_m138","PF I_m139").
+corefers("Yth1p _m140","PF I_m141").
+corefers("Yth1p _m140","Fip1p_m142").
+corefers("Yth1p _m140","PF I_m143").
+corefers("PF I_m141","Fip1p_m142").
+corefers("PF I_m141","PF I_m143").
+corefers("Fip1p_m142","PF I_m143").
+corefers("Na+/Ca2+ exchange in cardiac sarcolemmal vesicles_m144","Na+/Ca2+ exchange_m145").
+corefers("L-alpha-phosphatidylinositol 4,5-bisphosphate_m146","PIP2_m147").
+corefers("L-alpha-phosphatidylinositol 4,5-bisphosphate_m146","the exchanger activity in vesicles_m148").
+corefers("PIP2_m147","the exchanger activity in vesicles_m148").
+corefers("phosphoinositides_m149","PIP2_m150").
+corefers("phosphoinositides_m149","the exchanger_m151").
+corefers("PIP2_m150","the exchanger_m151").
+corefers("neural and muscle agrin_m153","muscle fibers_m154").
+corefers("neural and muscle agrin_m153","their_m155").
+corefers("muscle fibers_m154","their_m155").
+corefers("agrin_m156","neural agrin--induced AChR aggregates_m157").
+corefers("agrin_m158","laminin_m159").
+corefers("agrin_m158","both proteins_m160").
+corefers("agrin_m158","agrin_m161").
+corefers("agrin_m158","laminin_m162").
+corefers("laminin_m159","both proteins_m160").
+corefers("laminin_m159","agrin_m161").
+corefers("laminin_m159","laminin_m162").
+corefers("both proteins_m160","agrin_m161").
+corefers("both proteins_m160","laminin_m162").
+corefers("agrin_m161","laminin_m162").
+corefers("Neurabin_m163","synaptic protein_m164").
+corefers("Neurabin_m163","p70 S6 kinase_m165").
+corefers("Neurabin_m163","neuronal cytoskeleton_m166").
+corefers("Neurabin_m163","p70 S6 kinase_m167").
+corefers("Neurabin_m163","p70(S6k)_m168").
+corefers("Neurabin_m163","mitogen-activated protein kinase_m169").
+corefers("synaptic protein_m164","p70 S6 kinase_m165").
+corefers("synaptic protein_m164","neuronal cytoskeleton_m166").
+corefers("synaptic protein_m164","p70 S6 kinase_m167").
+corefers("synaptic protein_m164","p70(S6k)_m168").
+corefers("synaptic protein_m164","mitogen-activated protein kinase_m169").
+corefers("p70 S6 kinase_m165","neuronal cytoskeleton_m166").
+corefers("p70 S6 kinase_m165","p70 S6 kinase_m167").
+corefers("p70 S6 kinase_m165","p70(S6k)_m168").
+corefers("p70 S6 kinase_m165","mitogen-activated protein kinase_m169").
+corefers("neuronal cytoskeleton_m166","p70 S6 kinase_m167").
+corefers("neuronal cytoskeleton_m166","p70(S6k)_m168").
+corefers("neuronal cytoskeleton_m166","mitogen-activated protein kinase_m169").
+corefers("p70 S6 kinase_m167","p70(S6k)_m168").
+corefers("p70 S6 kinase_m167","mitogen-activated protein kinase_m169").
+corefers("p70(S6k)_m168","mitogen-activated protein kinase_m169").
+corefers("It_m170","S6 protein of the 40s ribosomal subunit_m171").
+corefers("It_m170","FK506 binding protein_m172").
+corefers("S6 protein of the 40s ribosomal subunit_m171","FK506 binding protein_m172").
+corefers("neurabin_m173","F-actin binding protein_m174").
+corefers("neurabin_m173","a neuronally enriched protein_m175").
+corefers("neurabin_m173","p70(S6k)_m176").
+corefers("F-actin binding protein_m174","a neuronally enriched protein_m175").
+corefers("F-actin binding protein_m174","p70(S6k)_m176").
+corefers("a neuronally enriched protein_m175","p70(S6k)_m176").
+corefers("neurabin_m177","p70 (S6k)_m178").
+corefers("p70(S6k)_m179","neurabin_m180").
+corefers("neurabin_m181","its PDZ domain_m182").
+corefers("neurabin_m181","its_m183").
+corefers("neurabin_m181","p70(S6k)_m184").
+corefers("its PDZ domain_m182","its_m183").
+corefers("its PDZ domain_m182","p70(S6k)_m184").
+corefers("its_m183","p70(S6k)_m184").
+corefers("its PDZ domain_m185","its_m186").
+corefers("its PDZ domain_m185","neuronal-specific neurabin_m187").
+corefers("its_m186","neuronal-specific neurabin_m187").
+corefers("This gene_m189","core binding factor beta_m190").
+corefers("This gene_m189","CBFbeta_m191").
+corefers("This gene_m189","smooth-muscle myosin heavy chain_m192").
+corefers("This gene_m189","SMMHC_m193").
+corefers("core binding factor beta_m190","CBFbeta_m191").
+corefers("core binding factor beta_m190","smooth-muscle myosin heavy chain_m192").
+corefers("core binding factor beta_m190","SMMHC_m193").
+corefers("CBFbeta_m191","smooth-muscle myosin heavy chain_m192").
+corefers("CBFbeta_m191","SMMHC_m193").
+corefers("smooth-muscle myosin heavy chain_m192","SMMHC_m193").
+corefers("chimeric protein CBFbeta-SMMHC_m194","function of CBF_m195").
+corefers("Differentiating cells_m197","their patterns of gene expression_m198").
+corefers("Differentiating cells_m197","their_m199").
+corefers("their patterns of gene expression_m198","their_m199").
+corefers("changes in the chromatin structure_m200","which_m201").
+corefers("prefrontal _m202","PF_m203").
+corefers("prefrontal _m202","ability of primates to form and rearrange arbitrary associations rapidly_m204").
+corefers("PF_m203","ability of primates to form and rearrange arbitrary associations rapidly_m204").
+corefers("glial cell line-derived neurotrophic factor_m206","GDNF_m207").
+corefers("glial cell line-derived neurotrophic factor_m206","Neurturin _m208").
+corefers("glial cell line-derived neurotrophic factor_m206","NTN_m209").
+corefers("glial cell line-derived neurotrophic factor_m206","Persephin _m210").
+corefers("glial cell line-derived neurotrophic factor_m206","PSP_m211").
+corefers("GDNF_m207","Neurturin _m208").
+corefers("GDNF_m207","NTN_m209").
+corefers("GDNF_m207","Persephin _m210").
+corefers("GDNF_m207","PSP_m211").
+corefers("Neurturin _m208","NTN_m209").
+corefers("Neurturin _m208","Persephin _m210").
+corefers("Neurturin _m208","PSP_m211").
+corefers("NTN_m209","Persephin _m210").
+corefers("NTN_m209","PSP_m211").
+corefers("Persephin _m210","PSP_m211").
+corefers("Artemin_m212","its expression pattern_m213").
+corefers("Artemin_m212","its_m214").
+corefers("Artemin_m212","it_m215").
+corefers("its expression pattern_m213","its_m214").
+corefers("its expression pattern_m213","it_m215").
+corefers("its_m214","it_m215").
+corefers("head direction_m218","HD_m219").
+corefers("head direction_m218","lateral mammillary nucleus_m220").
+corefers("head direction_m218","LMN_m221").
+corefers("head direction_m218","anterior thalamus_m222").
+corefers("head direction_m218","ATN_m223").
+corefers("HD_m219","lateral mammillary nucleus_m220").
+corefers("HD_m219","LMN_m221").
+corefers("HD_m219","anterior thalamus_m222").
+corefers("HD_m219","ATN_m223").
+corefers("lateral mammillary nucleus_m220","LMN_m221").
+corefers("lateral mammillary nucleus_m220","anterior thalamus_m222").
+corefers("lateral mammillary nucleus_m220","ATN_m223").
+corefers("LMN_m221","anterior thalamus_m222").
+corefers("LMN_m221","ATN_m223").
+corefers("anterior thalamus_m222","ATN_m223").
+corefers("HD cells_m224","their directional firing properties_m225").
+corefers("HD cells_m224","their_m226").
+corefers("HD cells_m224","them_m227").
+corefers("their directional firing properties_m225","their_m226").
+corefers("their directional firing properties_m225","them_m227").
+corefers("their_m226","them_m227").
+corefers("Fas _m228","CD95_m229").
+corefers("Fas _m228","Fas ligand_m230").
+corefers("Fas _m228","FasL_m231").
+corefers("Fas _m228","staphylococcal enterotoxin B_m232").
+corefers("Fas _m228","SEB_m233").
+corefers("CD95_m229","Fas ligand_m230").
+corefers("CD95_m229","FasL_m231").
+corefers("CD95_m229","staphylococcal enterotoxin B_m232").
+corefers("CD95_m229","SEB_m233").
+corefers("Fas ligand_m230","FasL_m231").
+corefers("Fas ligand_m230","staphylococcal enterotoxin B_m232").
+corefers("Fas ligand_m230","SEB_m233").
+corefers("FasL_m231","staphylococcal enterotoxin B_m232").
+corefers("FasL_m231","SEB_m233").
+corefers("staphylococcal enterotoxin B_m232","SEB_m233").
+corefers("FasL_m236","which_m237").
+corefers("T cell antigen receptor_m238","TCR_m239").
+corefers("SLP-76 linker protein_m240","nck_m241").
+corefers("SLP-76 linker protein_m240","adaptor protein_m242").
+corefers("SLP-76 linker protein_m240","Vav_m243").
+corefers("SLP-76 linker protein_m240","guanine nucleotide exchange factor for Rho-family GTPases_m244").
+corefers("nck_m241","adaptor protein_m242").
+corefers("nck_m241","Vav_m243").
+corefers("nck_m241","guanine nucleotide exchange factor for Rho-family GTPases_m244").
+corefers("adaptor protein_m242","Vav_m243").
+corefers("adaptor protein_m242","guanine nucleotide exchange factor for Rho-family GTPases_m244").
+corefers("Vav_m243","guanine nucleotide exchange factor for Rho-family GTPases_m244").
+corefers("CREB _m248","adenosine 3^, 5'-monophosphate response element binding protein_m249").
+corefers("CREB _m248","rat nucleus accumbens_m250").
+corefers("CREB _m248","a brain region that is important for addiction_m251").
+corefers("adenosine 3^, 5'-monophosphate response element binding protein_m249","rat nucleus accumbens_m250").
+corefers("adenosine 3^, 5'-monophosphate response element binding protein_m249","a brain region that is important for addiction_m251").
+corefers("rat nucleus accumbens_m250","a brain region that is important for addiction_m251").
+corefers("blockade of kappa opioid receptors_m253","which_m254").
+corefers("Wingless _m255","Wg_m256").
+corefers("Wingless _m255","Decapentaplegic _m257").
+corefers("Wingless _m255","Dpp_m258").
+corefers("Wg_m256","Decapentaplegic _m257").
+corefers("Wg_m256","Dpp_m258").
+corefers("Decapentaplegic _m257","Dpp_m258").
+corefers("receptor tyrosine kinases_m259","RTKs_m260").
+corefers("receptor tyrosine kinases_m259","Drosophila epidermal growth factor receptor_m261").
+corefers("receptor tyrosine kinases_m259","DER_m262").
+corefers("receptor tyrosine kinases_m259","Heartless _m263").
+corefers("receptor tyrosine kinases_m259","Htl_m264").
+corefers("RTKs_m260","Drosophila epidermal growth factor receptor_m261").
+corefers("RTKs_m260","DER_m262").
+corefers("RTKs_m260","Heartless _m263").
+corefers("RTKs_m260","Htl_m264").
+corefers("Drosophila epidermal growth factor receptor_m261","DER_m262").
+corefers("Drosophila epidermal growth factor receptor_m261","Heartless _m263").
+corefers("Drosophila epidermal growth factor receptor_m261","Htl_m264").
+corefers("DER_m262","Heartless _m263").
+corefers("DER_m262","Htl_m264").
+corefers("Heartless _m263","Htl_m264").
+corefers("mitogen-associated protein kinase_m265","MAPK_m266").
+corefers("mitogen-associated protein kinase_m265","these RTKs_m267").
+corefers("MAPK_m266","these RTKs_m267").
+corefers("ACTH/MSH peptides_m268","melanocortin-5 receptor_m269").
+corefers("ACTH/MSH peptides_m268","MC5-R_m270").
+corefers("ACTH/MSH peptides_m268","these peptides_m271").
+corefers("melanocortin-5 receptor_m269","MC5-R_m270").
+corefers("melanocortin-5 receptor_m269","these peptides_m271").
+corefers("MC5-R_m270","these peptides_m271").
+corefers("class III semaphorins_m272","Sema III, Sema E, and Sema IV_m273").
+corefers("class III semaphorins_m272","these semaphorins_m274").
+corefers("Sema III, Sema E, and Sema IV_m273","these semaphorins_m274").
+corefers("sympathetic axons_m275","their responses_m276").
+corefers("sympathetic axons_m275","their_m277").
+corefers("sympathetic axons_m275","MAM _m278").
+corefers("sympathetic axons_m275","meprin, A5, mu_m279").
+corefers("their responses_m276","their_m277").
+corefers("their responses_m276","MAM _m278").
+corefers("their responses_m276","meprin, A5, mu_m279").
+corefers("their_m277","MAM _m278").
+corefers("their_m277","meprin, A5, mu_m279").
+corefers("MAM _m278","meprin, A5, mu_m279").
+corefers("long-term potentiation_m280","LTP_m281").
+corefers("long-term potentiation_m280","long-term depression_m282").
+corefers("long-term potentiation_m280","LTD_m283").
+corefers("LTP_m281","long-term depression_m282").
+corefers("LTP_m281","LTD_m283").
+corefers("long-term depression_m282","LTD_m283").
+corefers("retinoid receptors_m286","they_m287").
+corefers("transgenic mice_m288","prion protein_m289").
+corefers("transgenic mice_m288","PrP_m290").
+corefers("prion protein_m289","PrP_m290").
+corefers("these mice_m293","PrP(Sc)_m294").
+corefers("these mice_m293","pathogenic isoform of PrP_m295").
+corefers("PrP(Sc)_m294","pathogenic isoform of PrP_m295").
+corefers("Vnd_m296","a NK-2 homeodomain protein_m297").
+corefers("Vnd_m298","its action_m299").
+corefers("Vnd_m298","its_m300").
+corefers("its action_m299","its_m300").
+corefers("Germ-line stem cells_m301","GSCs_m302").
+corefers("Drosophila piwi gene_m303","it_m304").
+corefers("the mutated gene_m306","transcriptional activator and ATPase/DNA helicase_m307").
+corefers("the mutated gene_m306","Smbp2, Rip1, Gf1, or Catf1_m308").
+corefers("transcriptional activator and ATPase/DNA helicase_m307","Smbp2, Rip1, Gf1, or Catf1_m308").
+corefers("chromosome _m310","Chr_m311").
+corefers("chromatin boundary elements_m312","Boundary elements_m313").
+corefers("their_m314","examples_m315").
+corefers("these sites_m317","candidate boundary elements_m318").
+corefers("these sites_m317","cBEs_m319").
+corefers("candidate boundary elements_m318","cBEs_m319").
